@@ -1,7 +1,0 @@
-project (libseteec-headers C)
-
-FILE(GLOB INSTALL_HEADERS "*.h")
-
-add_library(${PROJECT_NAME} INTERFACE)
-
-install (FILES ${INSTALL_HEADERS} DESTINATION ${CMAKE_INSTALL_INCLUDEDIR})
