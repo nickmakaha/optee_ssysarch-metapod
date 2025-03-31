@@ -1,4 +1,4 @@
-# # Flashing the Jetson
+# Flashing the Jetson
 -1) Connect the Jetson to the Linux PC via usb-c
 -2) Build ATF
  
