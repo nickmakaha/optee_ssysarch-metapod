@@ -1,0 +1,897 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+                              /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o (dlopen)
+/home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+                              /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o (strncmp)
+/home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(setjmp_a64.o)
+                              /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o (setjmp)
+/home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+                              /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o) (tee_uuid_from_str)
+/home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
+                              /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o) (isxdigit)
+/home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
+                              /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o) (tolower)
+/home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+                              /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o) (strnlen)
+
+As-needed library included to satisfy reference by file (symbol)
+
+ffd2bded-ab7d-4988-95ee-e4962fff7154
+                              /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o (__stack_chk_guard)
+
+Allocating common symbols
+Common symbol       size              file
+
+ta_heap             0xe1000           /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+os_test_global      0x4               /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+__ta_no_share_heap  0x0               /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+
+Discarded input sections
+
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x0000000000000000      0x10b /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x0000000000000000       0x7c /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x0000000000000000      0x1a0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x0000000000000000      0x174 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x0000000000000000       0x58 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x0000000000000000       0x22 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x0000000000000000       0x34 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x0000000000000000       0x79 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x0000000000000000       0xc4 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x0000000000000000      0xcf1 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x0000000000000000       0x35 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .debug_macro   0x0000000000000000       0x7c /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .debug_macro   0x0000000000000000      0x1a0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .debug_macro   0x0000000000000000      0x10b /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .debug_macro   0x0000000000000000      0x174 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .debug_macro   0x0000000000000000      0xcf1 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .debug_macro   0x0000000000000000       0xc4 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .debug_macro   0x0000000000000000       0x22 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .debug_macro   0x0000000000000000       0x35 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .debug_macro   0x0000000000000000       0x58 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .debug_macro   0x0000000000000000       0x34 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .debug_macro   0x0000000000000000       0x79 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .debug_macro   0x0000000000000000       0xdc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .debug_macro   0x0000000000000000       0xfd /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/test_float_subj.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .debug_macro   0x0000000000000000       0xdc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .debug_macro   0x0000000000000000      0x10b /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .debug_macro   0x0000000000000000      0x174 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .debug_macro   0x0000000000000000      0xcf1 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .debug_macro   0x0000000000000000       0x7c /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .debug_macro   0x0000000000000000      0x1a0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .debug_macro   0x0000000000000000       0xc4 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .debug_macro   0x0000000000000000       0x22 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .debug_macro   0x0000000000000000       0x35 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .debug_macro   0x0000000000000000       0x58 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .debug_macro   0x0000000000000000       0x34 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .debug_macro   0x0000000000000000       0x79 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x0000000000000000      0x10b /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x0000000000000000      0x174 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x0000000000000000       0x7c /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x0000000000000000      0x1a0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x0000000000000000       0xc4 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x0000000000000000       0x22 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x0000000000000000       0x2e /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x0000000000000000      0xcf1 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x0000000000000000       0x35 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x0000000000000000       0x58 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x0000000000000000       0x34 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x0000000000000000       0x79 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x0000000000000000       0xfd /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x0000000000000000       0xf0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x0000000000000000       0xdc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x0000000000000000       0x1c /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x0000000000000000      0x10b /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x0000000000000000       0x7c /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x0000000000000000      0x1a0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x0000000000000000      0x174 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x0000000000000000       0x22 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x0000000000000000       0x2e /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x0000000000000000       0x16 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x0000000000000000      0xcf1 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x0000000000000000       0x35 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x0000000000000000       0x58 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x0000000000000000       0x34 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x0000000000000000       0x79 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x0000000000000000       0xfd /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .debug_macro   0x0000000000000000      0x5e3 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .debug_macro   0x0000000000000000      0x174 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .debug_macro   0x0000000000000000       0x16 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .debug_macro   0x0000000000000000       0x7c /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_macro   0x0000000000000000      0x5e3 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_macro   0x0000000000000000       0x7c /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_macro   0x0000000000000000      0x1a0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_macro   0x0000000000000000      0x174 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_macro   0x0000000000000000       0x16 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_macro   0x0000000000000000      0x10b /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_macro   0x0000000000000000       0x22 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_macro   0x0000000000000000      0xcf1 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_macro   0x0000000000000000       0x35 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_macro   0x0000000000000000       0x58 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_macro   0x0000000000000000       0x34 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_macro   0x0000000000000000       0x79 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_macro   0x0000000000000000       0xfd /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
+ .debug_macro   0x0000000000000000      0x5e3 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
+ .debug_macro   0x0000000000000000      0x5e3 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+ .group         0x0000000000000000        0xc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+ .debug_macro   0x0000000000000000      0x5e3 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+ .debug_macro   0x0000000000000000       0x7c /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+ .debug_macro   0x0000000000000000      0x174 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+ .debug_macro   0x0000000000000000       0x16 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+
+.ta_head        0x0000000000000000       0x20
+ *(SORT_BY_ALIGNMENT(.ta_head))
+ .ta_head       0x0000000000000000       0x20 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+                0x0000000000000000                ta_head
+
+.text           0x0000000000000020     0x368c
+                0x0000000000000020                __text_start = .
+ *(SORT_BY_ALIGNMENT(.text) SORT_BY_ALIGNMENT(.text.*))
+ .text          0x0000000000000020       0x4c /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+                0x0000000000000020                ta_entry_init
+ .text          0x000000000000006c     0x2c50 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+                0x0000000000001168                ta_entry_basic
+                0x00000000000020a8                ta_entry_panic
+                0x00000000000020e4                ta_entry_client_with_timeout
+                0x000000000000223c                ta_entry_client
+                0x00000000000023dc                ta_entry_params_access_rights
+                0x0000000000002458                ta_entry_wait
+                0x0000000000002488                ta_entry_bad_mem_access
+                0x0000000000002580                ta_entry_ta2ta_memref
+                0x000000000000286c                ta_entry_ta2ta_memref_mix
+                0x00000000000028dc                ta_entry_params
+                0x0000000000002918                ta_entry_null_memref
+                0x000000000000297c                ta_entry_call_lib
+                0x00000000000029b0                ta_entry_call_lib_panic
+                0x00000000000029d4                ta_entry_call_lib_dl
+                0x0000000000002aa4                ta_entry_call_lib_dl_panic
+                0x0000000000002b04                ta_entry_get_global_var
+                0x0000000000002b2c                ta_entry_client_identity
+                0x0000000000002c34                ta_entry_tls_test_main
+                0x0000000000002c3c                ta_entry_tls_test_shlib
+                0x0000000000002c44                ta_entry_dl_phdr
+                0x0000000000002c4c                ta_entry_dl_phdr_dl
+                0x0000000000002c9c                ta_entry_memtag_use_after_free
+                0x0000000000002ca4                ta_entry_memtag_invalid_tag
+                0x0000000000002cac                ta_entry_memtag_double_free
+                0x0000000000002cb4                ta_entry_memtag_buffer_overrun
+ .text.startup  0x0000000000002cbc       0x4c /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .text          0x0000000000002d08      0x170 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+                0x0000000000002d08                TA_CreateEntryPoint
+                0x0000000000002d3c                TA_DestroyEntryPoint
+                0x0000000000002d60                TA_OpenSessionEntryPoint
+                0x0000000000002d9c                TA_CloseSessionEntryPoint
+                0x0000000000002dc0                ta_entry_pauth_test_nop
+                0x0000000000002dc8                ta_entry_pauth_corrupt_pac
+                0x0000000000002dd0                TA_InvokeCommandEntryPoint
+ .text          0x0000000000002e78      0x158 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/test_float_subj.o
+                0x0000000000002e78                test_float_dadd
+                0x0000000000002e80                test_float_ddiv
+                0x0000000000002e88                test_float_dmul
+                0x0000000000002e90                test_float_drsub
+                0x0000000000002e98                test_float_dsub
+                0x0000000000002ea0                test_float_dcmpeq
+                0x0000000000002eac                test_float_dcmplt
+                0x0000000000002eb8                test_float_dcmple
+                0x0000000000002ec4                test_float_dcmpge
+                0x0000000000002ed0                test_float_dcmpgt
+                0x0000000000002edc                test_float_fadd
+                0x0000000000002ee4                test_float_fdiv
+                0x0000000000002eec                test_float_fmul
+                0x0000000000002ef4                test_float_frsub
+                0x0000000000002efc                test_float_fsub
+                0x0000000000002f04                test_float_fcmpeq
+                0x0000000000002f10                test_float_fcmplt
+                0x0000000000002f1c                test_float_fcmple
+                0x0000000000002f28                test_float_fcmpge
+                0x0000000000002f34                test_float_fcmpgt
+                0x0000000000002f40                test_float_d2iz
+                0x0000000000002f48                test_float_d2uiz
+                0x0000000000002f50                test_float_d2lz
+                0x0000000000002f58                test_float_d2ulz
+                0x0000000000002f60                test_float_f2iz
+                0x0000000000002f68                test_float_f2uiz
+                0x0000000000002f70                test_float_f2lz
+                0x0000000000002f78                test_float_f2ulz
+                0x0000000000002f80                test_float_d2f
+                0x0000000000002f88                test_float_f2d
+                0x0000000000002f90                test_float_i2d
+                0x0000000000002f98                test_float_ui2d
+                0x0000000000002fa0                test_float_l2d
+                0x0000000000002fa8                test_float_ul2d
+                0x0000000000002fb0                test_float_i2f
+                0x0000000000002fb8                test_float_ui2f
+                0x0000000000002fc0                test_float_l2f
+                0x0000000000002fc8                test_float_ul2f
+ .text          0x0000000000002fd0       0xc8 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+                0x0000000000002fd0                ta_entry_attestation
+ .text          0x0000000000003098       0x1c /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+                0x0000000000003098                __ta_entry
+                0x00000000000030ac                tahead_get_trace_level
+ .text          0x00000000000030b4      0x2d4 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+                0x0000000000003180                dlopen
+                0x0000000000003284                dlclose
+                0x00000000000032cc                dlsym
+ .text          0x0000000000003388       0x3c /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+                0x0000000000003388                strncmp
+ .text          0x00000000000033c4       0x74 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(setjmp_a64.o)
+                0x00000000000033c4                setjmp
+                0x00000000000033fc                longjmp
+ .text          0x0000000000003438      0x210 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+                0x00000000000034c4                tee_uuid_from_str
+ .text          0x0000000000003648       0x28 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
+                0x0000000000003648                isxdigit
+ .text          0x0000000000003670       0x14 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
+                0x0000000000003670                tolower
+ .text          0x0000000000003684       0x28 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+                0x0000000000003684                strnlen
+ *(SORT_BY_ALIGNMENT(.stub))
+ *(SORT_BY_ALIGNMENT(.glue_7))
+ *(SORT_BY_ALIGNMENT(.glue_7t))
+ *(SORT_BY_ALIGNMENT(.gnu.linkonce.t.*))
+ *(SORT_BY_ALIGNMENT(.vfp11_veneer))
+                0x00000000000036ac                __text_end = .
+
+.note.gnu.property
+ *(SORT_BY_ALIGNMENT(.note.gnu.property))
+
+.plt            0x00000000000036ac      0x2e0
+ *(SORT_BY_ALIGNMENT(.plt))
+ .plt           0x00000000000036ac      0x2e0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+
+.eh_frame_hdr
+ *(SORT_BY_ALIGNMENT(.eh_frame_hdr))
+ *(SORT_BY_ALIGNMENT(.eh_frame_entry) SORT_BY_ALIGNMENT(.eh_frame_entry.*))
+
+.eh_frame       0x0000000000003990      0xa7c
+ *(SORT_BY_ALIGNMENT(.eh_frame))
+ .eh_frame      0x0000000000003990       0x38 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .eh_frame      0x00000000000039c8      0x4c8 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+                                        0x4e0 (size before relaxing)
+ .eh_frame      0x0000000000003e90       0xa8 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+                                         0xb8 (size before relaxing)
+ .eh_frame      0x0000000000003f38      0x2f8 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/test_float_subj.o
+                                        0x310 (size before relaxing)
+ .eh_frame      0x0000000000004230       0x30 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000004260       0x30 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000004290       0xb0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+                                         0xc0 (size before relaxing)
+ .eh_frame      0x0000000000004340       0x18 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+                                         0x28 (size before relaxing)
+ .eh_frame      0x0000000000004358       0x70 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+                                         0x88 (size before relaxing)
+ .eh_frame      0x00000000000043c8       0x18 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
+                                         0x28 (size before relaxing)
+ .eh_frame      0x00000000000043e0       0x18 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
+                                         0x28 (size before relaxing)
+ .eh_frame      0x00000000000043f8       0x14 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+                                         0x28 (size before relaxing)
+ *(SORT_BY_ALIGNMENT(.eh_frame.*))
+
+.gcc_except_table
+ *(SORT_BY_ALIGNMENT(.gcc_except_table) SORT_BY_ALIGNMENT(.gcc_except_table.*))
+
+.rodata         0x0000000000004410     0x18a6
+ *(SORT_BY_ALIGNMENT(.gnu.linkonce.r.*))
+ *(SORT_BY_ALIGNMENT(.rodata) SORT_BY_ALIGNMENT(.rodata.*))
+ .rodata.cst8   0x0000000000004410       0x78 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .rodata.user_ta_header.c
+                0x0000000000004488       0x5b /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+                0x0000000000004488                ta_num_props
+                0x00000000000044d0                __ta_no_share_heap_size
+                0x00000000000044d8                ta_heap_size
+                0x00000000000044e0                trace_ext_prefix
+ *fill*         0x00000000000044e3        0x1 
+ .rodata.os_test.c
+                0x00000000000044e4      0x1d0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .rodata.cst4   0x00000000000046b4       0x10 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .rodata.ta_entry.c
+                0x00000000000046c4       0x81 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ *fill*         0x0000000000004745        0x3 
+ .rodata.attestation.c
+                0x0000000000004748       0x10 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .rodata.lib/libdl/dlfcn.c
+                0x0000000000004758       0x10 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .rodata.str1.1.os_test.c
+                0x0000000000004768     0x13dd /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+                                       0x13ee (size before relaxing)
+ .rodata.str1.1.ta_entry.c
+                0x0000000000005b45       0x5c /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .rodata.str1.1.user_ta_header.c
+                0x0000000000005ba1      0x115 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+                                        0x2b4 (size before relaxing)
+
+.gnu.version_d  0x0000000000005cb8        0x0
+ .gnu.version_d
+                0x0000000000005cb8        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+
+.gnu.version    0x0000000000005cb6        0x0
+ .gnu.version   0x0000000000005cb6        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+
+.gnu.version_r  0x0000000000005cb8        0x0
+ .gnu.version_r
+                0x0000000000005cb8        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+
+.gnu.hash       0x0000000000005cb8       0x6c
+ .gnu.hash      0x0000000000005cb8       0x6c /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+
+.ARM.extab
+ *(SORT_BY_ALIGNMENT(.ARM.extab*) SORT_BY_ALIGNMENT(.gnu.linkonce.armextab.*))
+                [!provide]                        PROVIDE (__exidx_start = .)
+
+.ARM.exidx
+ *(SORT_BY_ALIGNMENT(.ARM.exidx*) SORT_BY_ALIGNMENT(.gnu.linkonce.armexidx.*))
+                [!provide]                        PROVIDE (__exidx_end = .)
+
+.ctors
+ *(SORT_BY_ALIGNMENT(.ctors))
+
+.dtors
+ *(SORT_BY_ALIGNMENT(.dtors))
+
+.dynsym         0x0000000000005d28      0x600
+ *(SORT_BY_ALIGNMENT(.dynsym))
+ .dynsym        0x0000000000005d28      0x600 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+
+.dynstr         0x0000000000006328      0x41e
+ *(SORT_BY_ALIGNMENT(.dynstr))
+ .dynstr        0x0000000000006328      0x41e /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+
+.hash           0x0000000000006748      0x19c
+ *(SORT_BY_ALIGNMENT(.hash))
+ .hash          0x0000000000006748      0x19c /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+
+.rela.dyn       0x00000000000068e8      0x438
+ .rela.data.rel.ro
+                0x00000000000068e8        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .rela.ifunc    0x00000000000068e8        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .rela.init_array
+                0x00000000000068e8       0x18 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .rela.data.rel.ro.local
+                0x0000000000006900      0x420 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+                0x0000000000007000                . = ALIGN (0x1000)
+
+.dynamic        0x0000000000007000      0x180
+ *(SORT_BY_ALIGNMENT(.dynamic))
+ .dynamic       0x0000000000007000      0x180 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+                0x0000000000007000                _DYNAMIC
+
+.tdata
+ *(SORT_BY_ALIGNMENT(.tdata) SORT_BY_ALIGNMENT(.tdata.*) SORT_BY_ALIGNMENT(.gnu.linkonce.td.*))
+
+.tbss
+ *(SORT_BY_ALIGNMENT(.tbss) SORT_BY_ALIGNMENT(.tbss.*) SORT_BY_ALIGNMENT(.gnu.linkonce.tb.*))
+ *(SORT_BY_ALIGNMENT(.tcommon))
+
+.got            0x0000000000007180      0x190
+ *(SORT_BY_ALIGNMENT(.got.plt))
+ .got.plt       0x0000000000007180      0x178 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ *(SORT_BY_ALIGNMENT(.got))
+ .got           0x00000000000072f8       0x18 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+                0x00000000000072f8                _GLOBAL_OFFSET_TABLE_
+
+.rel.text
+ *(SORT_BY_ALIGNMENT(.rel.text))
+ *(SORT_BY_ALIGNMENT(.rel.gnu.linkonce.t*))
+
+.rela.text
+ *(SORT_BY_ALIGNMENT(.rela.text))
+ *(SORT_BY_ALIGNMENT(.rela.gnu.linkonce.t*))
+
+.rel.data
+ *(SORT_BY_ALIGNMENT(.rel.data))
+ *(SORT_BY_ALIGNMENT(.rel.gnu.linkonce.d*))
+
+.rela.data
+ *(SORT_BY_ALIGNMENT(.rela.data))
+ *(SORT_BY_ALIGNMENT(.rela.gnu.linkonce.d*))
+
+.rel.tdata
+ *(SORT_BY_ALIGNMENT(.rel.tdata) SORT_BY_ALIGNMENT(.rel.tdata.*) SORT_BY_ALIGNMENT(.rel.gnu.linkonce.td.*))
+
+.rela.tdata
+ *(SORT_BY_ALIGNMENT(.rela.tdata) SORT_BY_ALIGNMENT(.rela.tdata.*) SORT_BY_ALIGNMENT(.rela.gnu.linkonce.td.*))
+
+.rel.tbss
+ *(SORT_BY_ALIGNMENT(.rel.tbss) SORT_BY_ALIGNMENT(.rel.tbss.*) SORT_BY_ALIGNMENT(.rel.gnu.linkonce.tb.*))
+
+.rela.tbss
+ *(SORT_BY_ALIGNMENT(.rela.tbss) SORT_BY_ALIGNMENT(.rela.tbss.*) SORT_BY_ALIGNMENT(.rela.gnu.linkonce.tb.*))
+
+.rel.rodata
+ *(SORT_BY_ALIGNMENT(.rel.rodata))
+ *(SORT_BY_ALIGNMENT(.rel.gnu.linkonce.r*))
+
+.rela.rodata
+ *(SORT_BY_ALIGNMENT(.rela.rodata))
+ *(SORT_BY_ALIGNMENT(.rela.gnu.linkonce.r*))
+
+.rel.dyn
+ *(SORT_BY_ALIGNMENT(.rel.dyn))
+
+.rel.got
+ *(SORT_BY_ALIGNMENT(.rel.got))
+
+.rela.got       0x0000000000007310       0x30
+ *(SORT_BY_ALIGNMENT(.rela.got))
+ .rela.got      0x0000000000007310       0x30 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+
+.rel.ctors
+ *(SORT_BY_ALIGNMENT(.rel.ctors))
+
+.rela.ctors
+ *(SORT_BY_ALIGNMENT(.rela.ctors))
+
+.rel.dtors
+ *(SORT_BY_ALIGNMENT(.rel.dtors))
+
+.rela.dtors
+ *(SORT_BY_ALIGNMENT(.rela.dtors))
+
+.rel.init
+ *(SORT_BY_ALIGNMENT(.rel.init))
+
+.rela.init
+ *(SORT_BY_ALIGNMENT(.rela.init))
+
+.rel.fini
+ *(SORT_BY_ALIGNMENT(.rel.fini))
+
+.rela.fini
+ *(SORT_BY_ALIGNMENT(.rela.fini))
+
+.rel.bss
+ *(SORT_BY_ALIGNMENT(.rel.bss))
+
+.rela.bss       0x0000000000007340        0x0
+ *(SORT_BY_ALIGNMENT(.rela.bss))
+ .rela.bss      0x0000000000007340        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+
+.rel.plt
+ *(SORT_BY_ALIGNMENT(.rel.plt))
+
+.rela.plt       0x0000000000007340      0x420
+ *(SORT_BY_ALIGNMENT(.rela.plt))
+ .rela.plt      0x0000000000007340      0x420 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+
+.data           0x0000000000007760      0x214
+ *(SORT_BY_ALIGNMENT(.data) SORT_BY_ALIGNMENT(.data.*) SORT_BY_ALIGNMENT(.gnu.linkonce.d.*))
+ .data.rel.ro.local
+                0x0000000000007760      0x210 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+                0x0000000000007760                ta_props
+ .data          0x0000000000007970        0x4 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+                0x0000000000007970                trace_level
+ .data          0x0000000000007974        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .data.rel.ro   0x0000000000007974        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .data          0x0000000000007974        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .data          0x0000000000007974        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .data          0x0000000000007974        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/test_float_subj.o
+ .data          0x0000000000007974        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .data          0x0000000000007974        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .data          0x0000000000007974        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .data          0x0000000000007974        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(setjmp_a64.o)
+ .data          0x0000000000007974        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .data          0x0000000000007974        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
+ .data          0x0000000000007974        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
+ .data          0x0000000000007974        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+
+.init_array     0x0000000000007978        0x8
+ .init_array    0x0000000000007978        0x8 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+
+.bss            0x0000000000007980    0xe1018
+ *(SORT_BY_ALIGNMENT(.bss) SORT_BY_ALIGNMENT(.bss.*) SORT_BY_ALIGNMENT(.gnu.linkonce.b.*) SORT_BY_ALIGNMENT(COMMON))
+ .bss           0x0000000000007980       0x10 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ COMMON         0x0000000000007990        0x4 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+                0x0000000000007990                os_test_global
+ .bss           0x0000000000007994        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .bss           0x0000000000007994        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .bss           0x0000000000007994        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .bss           0x0000000000007994        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/test_float_subj.o
+ .bss           0x0000000000007994        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .bss           0x0000000000007994        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ COMMON         0x0000000000007994    0xe1000 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+                0x0000000000007994                ta_heap
+                0x00000000000e8994                __ta_no_share_heap
+ .bss           0x00000000000e8994        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .bss           0x00000000000e8994        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(setjmp_a64.o)
+ .bss           0x00000000000e8994        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .bss           0x00000000000e8994        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
+ .bss           0x00000000000e8994        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
+ .bss           0x00000000000e8994        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+                0x00000000000e8998                . = ALIGN (0x8)
+ *fill*         0x00000000000e8994        0x4 
+                0x00000000000e8998                __ftrace_buf_start = .
+                0x00000000000e8998                . = (. + DEFINED (_mcount)?0x800:0x0)
+                0x00000000000e8998                __ftrace_buf_end = .
+
+.dynbss         0x00000000000e8998        0x0
+ .dynbss        0x00000000000e8998        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+
+/DISCARD/
+ *(SORT_BY_ALIGNMENT(.interp))
+LOAD /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+LOAD /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+LOAD /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+LOAD /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/test_float_subj.o
+LOAD /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+LOAD /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+LOAD /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test_lib/libos_test.so
+LOAD /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a
+START GROUP
+LOAD /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a
+LOAD /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a
+LOAD /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libmbedtls.a
+LOAD /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a
+END GROUP
+LOAD /home/ssysarch/Desktop/nick/jetpack_5/aarch64--glibc--stable-final/bin/../lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/libgcc.a
+LOAD /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a
+OUTPUT(/home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/5b9e0e40-2636-11e1-ad9e-0002a5d5c51b.elf elf64-littleaarch64)
+
+.debug_info     0x0000000000000000     0x762f
+ .debug_info    0x0000000000000000      0x216 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_info    0x0000000000000216     0x4ac3 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_info    0x0000000000004cd9      0x747 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .debug_info    0x0000000000005420      0x8b0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/test_float_subj.o
+ .debug_info    0x0000000000005cd0      0x34f /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .debug_info    0x000000000000601f      0x60c /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_info    0x000000000000662b      0x8fa /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_info    0x0000000000006f25       0xd5 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .debug_info    0x0000000000006ffa       0x2e /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(setjmp_a64.o)
+ .debug_info    0x0000000000007028      0x45b /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_info    0x0000000000007483       0x6e /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
+ .debug_info    0x00000000000074f1       0x6e /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
+ .debug_info    0x000000000000755f       0xd0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+
+.debug_abbrev   0x0000000000000000     0x1309
+ .debug_abbrev  0x0000000000000000      0x14a /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_abbrev  0x000000000000014a      0x5b9 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_abbrev  0x0000000000000703      0x1c6 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .debug_abbrev  0x00000000000008c9       0x8c /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/test_float_subj.o
+ .debug_abbrev  0x0000000000000955      0x190 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .debug_abbrev  0x0000000000000ae5      0x1f8 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_abbrev  0x0000000000000cdd      0x270 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_abbrev  0x0000000000000f4d       0x7e /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .debug_abbrev  0x0000000000000fcb       0x14 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(setjmp_a64.o)
+ .debug_abbrev  0x0000000000000fdf      0x1fb /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_abbrev  0x00000000000011da       0x54 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
+ .debug_abbrev  0x000000000000122e       0x54 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
+ .debug_abbrev  0x0000000000001282       0x87 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+
+.debug_loc      0x0000000000000000     0x62da
+ .debug_loc     0x0000000000000000       0x7a /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_loc     0x000000000000007a     0x3de7 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_loc     0x0000000000003e61     0x1061 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .debug_loc     0x0000000000004ec2      0x300 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/test_float_subj.o
+ .debug_loc     0x00000000000051c2      0x121 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .debug_loc     0x00000000000052e3      0x132 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_loc     0x0000000000005415      0x560 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_loc     0x0000000000005975      0x19b /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .debug_loc     0x0000000000005b10      0x5c2 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_loc     0x00000000000060d2       0x68 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
+ .debug_loc     0x000000000000613a       0x3d /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
+ .debug_loc     0x0000000000006177      0x163 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+
+.debug_aranges  0x0000000000000000      0x280
+ .debug_aranges
+                0x0000000000000000       0x30 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_aranges
+                0x0000000000000030       0x40 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_aranges
+                0x0000000000000070       0x30 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .debug_aranges
+                0x00000000000000a0       0x30 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/test_float_subj.o
+ .debug_aranges
+                0x00000000000000d0       0x30 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .debug_aranges
+                0x0000000000000100       0x30 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_aranges
+                0x0000000000000130       0x30 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_aranges
+                0x0000000000000160       0x30 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .debug_aranges
+                0x0000000000000190       0x30 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(setjmp_a64.o)
+ .debug_aranges
+                0x00000000000001c0       0x30 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_aranges
+                0x00000000000001f0       0x30 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
+ .debug_aranges
+                0x0000000000000220       0x30 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
+ .debug_aranges
+                0x0000000000000250       0x30 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+
+.debug_macro    0x0000000000000000     0xb4de
+ .debug_macro   0x0000000000000000       0xc2 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x00000000000000c2      0x994 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000000a56       0x7c /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000000ad2      0x1a0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000000c72      0x10b /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000000d7d      0x174 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000000ef1      0xcf1 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000001be2       0xc4 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000001ca6       0x22 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000001cc8       0x35 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000001cfd       0x58 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000001d55       0x34 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000001d89       0x79 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000001e02      0x20b /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x000000000000200d      0x994 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x00000000000029a1       0x1c /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x00000000000029bd     0x1609 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x0000000000003fc6       0x5f /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x0000000000004025       0x16 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x000000000000403b       0x16 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x0000000000004051       0x2e /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x000000000000407f       0xf0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x000000000000416f       0x1c /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x000000000000418b       0x16 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x00000000000041a1      0x252 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x00000000000043f3       0xdc /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x00000000000044cf       0xfd /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x00000000000045cc      0x106 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .debug_macro   0x00000000000046d2      0x994 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .debug_macro   0x0000000000005066       0x1b /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/test_float_subj.o
+ .debug_macro   0x0000000000005081      0x994 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/test_float_subj.o
+ .debug_macro   0x0000000000005a15       0xd0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .debug_macro   0x0000000000005ae5      0x994 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .debug_macro   0x0000000000006479       0x28 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .debug_macro   0x00000000000064a1      0x190 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x0000000000006631      0x98e /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x0000000000006fbf       0x2e /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x0000000000006fed       0x33 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x0000000000007020       0x88 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x00000000000070a8       0x22 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x00000000000070ca      0x187 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x0000000000007251      0x95e /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x0000000000007baf      0x5e3 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x0000000000008192       0xea /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x000000000000827c       0x89 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x0000000000008305       0x39 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x000000000000833e       0x8e /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x00000000000083cc       0x54 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .debug_macro   0x0000000000008420      0x95e /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .debug_macro   0x0000000000008d7e       0x7c /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .debug_macro   0x0000000000008dfa       0xdf /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_macro   0x0000000000008ed9      0x95e /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_macro   0x0000000000009837       0x24 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
+ .debug_macro   0x000000000000985b      0x95e /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
+ .debug_macro   0x000000000000a1b9       0x24 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
+ .debug_macro   0x000000000000a1dd      0x95e /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
+ .debug_macro   0x000000000000ab3b       0x45 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+ .debug_macro   0x000000000000ab80      0x95e /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+
+.debug_line     0x0000000000000000     0x380e
+ .debug_line    0x0000000000000000      0x248 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_line    0x0000000000000248     0x1893 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_line    0x0000000000001adb      0x402 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .debug_line    0x0000000000001edd      0x1da /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/test_float_subj.o
+ .debug_line    0x00000000000020b7      0x2cd /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .debug_line    0x0000000000002384      0x3f4 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_line    0x0000000000002778      0x53e /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_line    0x0000000000002cb6      0x21a /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .debug_line    0x0000000000002ed0       0x6b /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(setjmp_a64.o)
+ .debug_line    0x0000000000002f3b      0x47a /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_line    0x00000000000033b5      0x131 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
+ .debug_line    0x00000000000034e6      0x12b /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
+ .debug_line    0x0000000000003611      0x1fd /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+
+.debug_str      0x0000000000000000    0x12c0d
+ .debug_str     0x0000000000000000     0x8ec7 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+                                       0x904e (size before relaxing)
+ .debug_str     0x0000000000008ec7     0x6e91 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+                                       0xffb2 (size before relaxing)
+ .debug_str     0x000000000000fd58      0x136 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+                                       0x9eb4 (size before relaxing)
+ .debug_str     0x000000000000fe8e       0x30 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/test_float_subj.o
+                                       0x300c (size before relaxing)
+ .debug_str     0x000000000000febe      0x13b /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+                                       0x96b5 (size before relaxing)
+ .debug_str     0x000000000000fff9      0xe56 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+                                       0xb432 (size before relaxing)
+ .debug_str     0x0000000000010e4f     0x19a1 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+                                       0xc1b0 (size before relaxing)
+ .debug_str     0x00000000000127f0      0x27f /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+                                       0x4a92 (size before relaxing)
+ .debug_str     0x0000000000012a6f       0x36 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(setjmp_a64.o)
+                                         0xb9 (size before relaxing)
+ .debug_str     0x0000000000012aa5       0x76 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+                                       0xacc6 (size before relaxing)
+ .debug_str     0x0000000000012b1b       0x46 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
+                                       0x42c7 (size before relaxing)
+ .debug_str     0x0000000000012b61       0x44 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
+                                       0x42c4 (size before relaxing)
+ .debug_str     0x0000000000012ba5       0x68 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+                                       0x482a (size before relaxing)
+
+.comment        0x0000000000000000       0x1f
+ .comment       0x0000000000000000       0x1f /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+                                         0x20 (size before relaxing)
+ .comment       0x000000000000001f       0x20 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .comment       0x000000000000001f       0x20 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .comment       0x000000000000001f       0x20 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/test_float_subj.o
+ .comment       0x000000000000001f       0x20 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .comment       0x000000000000001f       0x20 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .comment       0x000000000000001f       0x20 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .comment       0x000000000000001f       0x20 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .comment       0x000000000000001f       0x20 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .comment       0x000000000000001f       0x20 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
+ .comment       0x000000000000001f       0x20 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
+ .comment       0x000000000000001f       0x20 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/init.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/test_float_subj.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+
+.debug_ranges   0x0000000000000000      0x350
+ .debug_ranges  0x0000000000000000      0x300 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_ranges  0x0000000000000300       0x20 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_ranges  0x0000000000000320       0x30 /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
