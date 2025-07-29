@@ -1,5 +1,5 @@
-#ifndef __home_ssysarch_Desktop_nick_jetpack_5_Jetson_Linux_R35_4_1_aarch64_Linux_for_Tegra_sources_tegra_optee_src_nv_optee_optee_build_t234__include_generated_conf_h_
-#define __home_ssysarch_Desktop_nick_jetpack_5_Jetson_Linux_R35_4_1_aarch64_Linux_for_Tegra_sources_tegra_optee_src_nv_optee_optee_build_t234__include_generated_conf_h_
+#ifndef __home_nick2_optee_ssysarch_metapod_nv_optee_optee_build_t234__include_generated_conf_h_
+#define __home_nick2_optee_ssysarch_metapod_nv_optee_optee_build_t234__include_generated_conf_h_
 #define CFG_AES_GCM_TABLE_BASED 1
 #define CFG_ARM64_core 1
 #define CFG_ARM64_ldelf 1
@@ -197,7 +197,7 @@
 #define CFG_SP_INIT_INFO_MAX_SIZE 0x1000
 #define CFG_STACK_THREAD_EXTRA 0
 #define CFG_STACK_TMP_EXTRA 0
-#define CFG_STMM_PATH /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/bootloader/standalonemm_optee_t234.bin
+#define CFG_STMM_PATH /home/nick2/optee-dependencies/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/bootloader/standalonemm_optee_t234.bin
 /* CFG_SYSCALL_FTRACE is not set */
 /* CFG_SYSCALL_WRAPPERS_MCOUNT is not set */
 #define CFG_SYSTEM_PTA 1

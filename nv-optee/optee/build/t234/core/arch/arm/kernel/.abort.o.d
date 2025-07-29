@@ -1,14 +1,14 @@
-/home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234//core/arch/arm/kernel/abort.o: \
+/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/arch/arm/kernel/abort.o: \
  core/arch/arm/kernel/abort.c \
- /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  core/arch/arm/include/arm.h \
- /home/ssysarch/Desktop/nick/jetpack_5/aarch64--glibc--stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stdbool.h \
+ /home/nick2/optee-dependencies/aarch64-glibc-stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stdbool.h \
  lib/libutils/isoc/include/stdint.h lib/libutils/isoc/include/limits.h \
  lib/libutils/ext/include/util.h lib/libutils/ext/include/compiler.h \
  lib/libutils/isoc/include/inttypes.h core/arch/arm/include/arm64.h \
  lib/libutils/isoc/include/sys/cdefs.h core/include/kernel/abort.h \
  lib/libutils/ext/include/types_ext.h \
- /home/ssysarch/Desktop/nick/jetpack_5/aarch64--glibc--stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stddef.h \
+ /home/nick2/optee-dependencies/aarch64-glibc-stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stddef.h \
  lib/libutils/isoc/include/unistd.h core/include/kernel/linker.h \
  core/include/kernel/dt.h core/include/kernel/interrupt.h \
  core/include/dt-bindings/interrupt-controller/irq.h \
@@ -17,7 +17,7 @@
  lib/libutee/include/tee_api_types.h \
  lib/libutee/include/tee_api_defines.h core/include/kernel/misc.h \
  lib/libutils/isoc/include/assert.h lib/libutils/ext/include/trace.h \
- /home/ssysarch/Desktop/nick/jetpack_5/aarch64--glibc--stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stdarg.h \
+ /home/nick2/optee-dependencies/aarch64-glibc-stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stdarg.h \
  lib/libutils/ext/include/trace_levels.h \
  core/arch/arm/include/kernel/misc_arch.h core/include/kernel/thread.h \
  core/include/mm/pgt_cache.h core/include/kernel/tee_ta_manager.h \

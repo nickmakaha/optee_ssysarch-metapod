@@ -1,17 +1,17 @@
-/home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234//core/kernel/pm.o: \
+/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/kernel/pm.o: \
  core/kernel/pm.c \
- /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  core/include/keep.h lib/libutils/ext/include/compiler.h \
  core/include/kernel/panic.h core/include/kernel/pm.h \
- /home/ssysarch/Desktop/nick/jetpack_5/aarch64--glibc--stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stdbool.h \
+ /home/nick2/optee-dependencies/aarch64-glibc-stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stdbool.h \
  lib/libutils/isoc/include/stdint.h lib/libutils/isoc/include/limits.h \
  lib/libutee/include/tee_api_types.h lib/libutils/isoc/include/inttypes.h \
- /home/ssysarch/Desktop/nick/jetpack_5/aarch64--glibc--stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stddef.h \
+ /home/nick2/optee-dependencies/aarch64-glibc-stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stddef.h \
  lib/libutee/include/tee_api_defines.h lib/libutils/isoc/include/malloc.h \
  lib/libutils/ext/include/types_ext.h lib/libutils/isoc/include/unistd.h \
  core/include/mm/core_memprot.h core/include/mm/core_mmu.h \
  lib/libutils/isoc/include/assert.h lib/libutils/ext/include/trace.h \
- /home/ssysarch/Desktop/nick/jetpack_5/aarch64--glibc--stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stdarg.h \
+ /home/nick2/optee-dependencies/aarch64-glibc-stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stdarg.h \
  lib/libutils/ext/include/trace_levels.h core/include/kernel/user_ta.h \
  core/include/kernel/tee_ta_manager.h core/include/kernel/mutex.h \
  core/include/kernel/refcount.h lib/libutils/ext/include/atomic.h \

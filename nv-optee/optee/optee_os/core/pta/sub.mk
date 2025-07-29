@@ -19,6 +19,7 @@ srcs-$(CFG_HWRNG_PTA) += hwrng.c
 srcs-$(CFG_RTC_PTA) += rtc.c
 #srcs-$(CFG_GPIO_PTA) += jetsongpio.c
 srcs-$(CFG_JETGPIO_PTA) += jetgpio.c
+srcs-y += tee_gpio.c
 
 
 subdirs-y += bcm

@@ -2382,427 +2382,427 @@ Linker script and memory map
                 0x0000000040010c66       0x1e ./234-t194/tegra/t194/release/bl31/build_message.o
                 0x0000000040010c66                build_message
  .rodata.version_string
-                0x0000000040010c84       0x1c ./234-t194/tegra/t194/release/bl31/build_message.o
+                0x0000000040010c84       0x16 ./234-t194/tegra/t194/release/bl31/build_message.o
                 0x0000000040010c84                version_string
  .rodata.cm_get_context.str1.1
-                0x0000000040010ca0       0x3c ./234-t194/tegra/t194/release/bl31/bl31_context_mgmt.o
+                0x0000000040010c9a       0x3c ./234-t194/tegra/t194/release/bl31/bl31_context_mgmt.o
  .rodata.get_arm_std_svc_args.str1.1
-                0x0000000040010cdc       0x2b ./234-t194/tegra/t194/release/bl31/bl31_main.o
+                0x0000000040010cd6       0x2b ./234-t194/tegra/t194/release/bl31/bl31_main.o
  .rodata.bl31_prepare_next_image_entry.str1.1
-                0x0000000040010d07       0xa2 ./234-t194/tegra/t194/release/bl31/bl31_main.o
+                0x0000000040010d01       0xa2 ./234-t194/tegra/t194/release/bl31/bl31_main.o
  .rodata.bl31_main.str1.1
-                0x0000000040010da9        0xb ./234-t194/tegra/t194/release/bl31/bl31_main.o
+                0x0000000040010da3        0xb ./234-t194/tegra/t194/release/bl31/bl31_main.o
  .rodata.ehf_entering_normal_world.str1.1
-                0x0000000040010db4       0x28 ./234-t194/tegra/t194/release/bl31/ehf.o
+                0x0000000040010dae       0x28 ./234-t194/tegra/t194/release/bl31/ehf.o
  .rodata.pri_to_idx.str1.1
-                0x0000000040010ddc       0x41 ./234-t194/tegra/t194/release/bl31/ehf.o
+                0x0000000040010dd6       0x41 ./234-t194/tegra/t194/release/bl31/ehf.o
  .rodata.ehf_el3_interrupt_handler.str1.1
-                0x0000000040010e1d       0x71 ./234-t194/tegra/t194/release/bl31/ehf.o
+                0x0000000040010e17       0x71 ./234-t194/tegra/t194/release/bl31/ehf.o
  .rodata.ehf_exited_normal_world.str1.1
-                0x0000000040010e8e       0x4a ./234-t194/tegra/t194/release/bl31/ehf.o
+                0x0000000040010e88       0x4a ./234-t194/tegra/t194/release/bl31/ehf.o
  .rodata.ehf_activate_priority.str1.1
-                0x0000000040010ed8       0xa9 ./234-t194/tegra/t194/release/bl31/ehf.o
+                0x0000000040010ed2       0xa9 ./234-t194/tegra/t194/release/bl31/ehf.o
  .rodata.ehf_deactivate_priority.str1.1
-                0x0000000040010f81       0x77 ./234-t194/tegra/t194/release/bl31/ehf.o
+                0x0000000040010f7b       0x77 ./234-t194/tegra/t194/release/bl31/ehf.o
  .rodata.ehf_init.str1.1
-                0x0000000040010ff8       0x9d ./234-t194/tegra/t194/release/bl31/ehf.o
+                0x0000000040010ff2       0x9d ./234-t194/tegra/t194/release/bl31/ehf.o
  .rodata.ehf_register_priority_handler.str1.1
-                0x0000000040011095       0x69 ./234-t194/tegra/t194/release/bl31/ehf.o
+                0x000000004001108f       0x69 ./234-t194/tegra/t194/release/bl31/ehf.o
                                          0x79 (size before relaxing)
  .rodata.get_scr_el3_from_routing_model.str1.1
-                0x00000000400110fe       0x16 ./234-t194/tegra/t194/release/bl31/interrupt_mgmt.o
+                0x00000000400110f8       0x16 ./234-t194/tegra/t194/release/bl31/interrupt_mgmt.o
                                          0x39 (size before relaxing)
  .rodata.handle_runtime_svc.str1.1
-                0x0000000040011114       0x24 ./234-t194/tegra/t194/release/bl31/runtime_svc.o
+                0x000000004001110e       0x24 ./234-t194/tegra/t194/release/bl31/runtime_svc.o
  .rodata.runtime_svc_init.str1.1
-                0x0000000040011138       0xb1 ./234-t194/tegra/t194/release/bl31/runtime_svc.o
+                0x0000000040011132       0xb1 ./234-t194/tegra/t194/release/bl31/runtime_svc.o
  .rodata.gicv2_secure_spis_configure_props.str1.1
-                0x00000000400111e9       0x64 ./234-t194/tegra/t194/release/bl31/gicv2_helpers.o
+                0x00000000400111e3       0x64 ./234-t194/tegra/t194/release/bl31/gicv2_helpers.o
  .rodata.gicv2_cpuif_enable.str1.1
-                0x000000004001124d       0x20 ./234-t194/tegra/t194/release/bl31/gicv2_main.o
+                0x0000000040011247       0x20 ./234-t194/tegra/t194/release/bl31/gicv2_main.o
                                          0x51 (size before relaxing)
  .rodata.gicv2_pcpu_distif_init.str1.1
-                0x000000004001126d       0x20 ./234-t194/tegra/t194/release/bl31/gicv2_main.o
+                0x0000000040011267       0x20 ./234-t194/tegra/t194/release/bl31/gicv2_main.o
                                          0x1d (size before relaxing)
  .rodata.gicv2_driver_init.str1.1
-                0x000000004001126d       0xfa ./234-t194/tegra/t194/release/bl31/gicv2_main.o
+                0x0000000040011267       0xfa ./234-t194/tegra/t194/release/bl31/gicv2_main.o
  .rodata.gicv2_set_pe_target_mask.str1.1
-                0x0000000040011367       0x6a ./234-t194/tegra/t194/release/bl31/gicv2_main.o
+                0x0000000040011361       0x6a ./234-t194/tegra/t194/release/bl31/gicv2_main.o
  .rodata.gicv2_get_interrupt_active.str1.1
-                0x00000000400113d1       0x11 ./234-t194/tegra/t194/release/bl31/gicv2_main.o
+                0x00000000400113cb       0x11 ./234-t194/tegra/t194/release/bl31/gicv2_main.o
  .rodata.gicv2_set_interrupt_type.str1.1
-                0x00000000400113e2        0x6 ./234-t194/tegra/t194/release/bl31/gicv2_main.o
+                0x00000000400113dc        0x6 ./234-t194/tegra/t194/release/bl31/gicv2_main.o
  .rodata.gicv2_raise_sgi.str1.1
-                0x00000000400113e8       0x6d ./234-t194/tegra/t194/release/bl31/gicv2_main.o
+                0x00000000400113e2       0x6d ./234-t194/tegra/t194/release/bl31/gicv2_main.o
  .rodata.gicv2_set_spi_routing.str1.1
-                0x0000000040011455       0x51 ./234-t194/tegra/t194/release/bl31/gicv2_main.o
+                0x000000004001144f       0x51 ./234-t194/tegra/t194/release/bl31/gicv2_main.o
  .rodata.gicv2_clear_interrupt_pending.str1.1
-                0x00000000400114a6       0x11 ./234-t194/tegra/t194/release/bl31/gicv2_main.o
+                0x00000000400114a0       0x11 ./234-t194/tegra/t194/release/bl31/gicv2_main.o
  .rodata.udelay.str1.1
-                0x00000000400114b7       0xbe ./234-t194/tegra/t194/release/bl31/delay_timer.o
+                0x00000000400114b1       0xbe ./234-t194/tegra/t194/release/bl31/delay_timer.o
  .rodata.mdelay.str1.1
-                0x0000000040011575       0x1d ./234-t194/tegra/t194/release/bl31/delay_timer.o
+                0x000000004001156f       0x1d ./234-t194/tegra/t194/release/bl31/delay_timer.o
  .rodata.timer_init.str1.1
-                0x0000000040011592       0x71 ./234-t194/tegra/t194/release/bl31/delay_timer.o
+                0x000000004001158c       0x71 ./234-t194/tegra/t194/release/bl31/delay_timer.o
  .rodata.cm_setup_context.str1.1
-                0x0000000040011603       0x6b ./234-t194/tegra/t194/release/bl31/context_mgmt.o
+                0x00000000400115fd       0x6b ./234-t194/tegra/t194/release/bl31/context_mgmt.o
                                          0x77 (size before relaxing)
  .rodata.cm_write_scr_el3_bit.str1.1
-                0x000000004001166e       0x3a ./234-t194/tegra/t194/release/bl31/context_mgmt.o
+                0x0000000040011668       0x3a ./234-t194/tegra/t194/release/bl31/context_mgmt.o
  .rodata.cm_set_next_eret_context.str1.1
-                0x00000000400116a8       0x3e ./234-t194/tegra/t194/release/bl31/context_mgmt.o
+                0x00000000400116a2       0x3e ./234-t194/tegra/t194/release/bl31/context_mgmt.o
  .rodata.str1.1
-                0x00000000400116e6      0x2a0 ./234-t194/tegra/t194/release/bl31/ras_common.o
+                0x00000000400116e0      0x2a0 ./234-t194/tegra/t194/release/bl31/ras_common.o
  .rodata.ras_interrupt_handler.str1.1
-                0x0000000040011986       0x99 ./234-t194/tegra/t194/release/bl31/ras_common.o
+                0x0000000040011980       0x99 ./234-t194/tegra/t194/release/bl31/ras_common.o
  .rodata.ras_serr_to_str.str1.1
-                0x0000000040011a1f        0xd ./234-t194/tegra/t194/release/bl31/ras_common.o
+                0x0000000040011a19        0xd ./234-t194/tegra/t194/release/bl31/ras_common.o
  .rodata.ras_ea_handler.str1.1
-                0x0000000040011a2c       0x2a ./234-t194/tegra/t194/release/bl31/ras_common.o
+                0x0000000040011a26       0x2a ./234-t194/tegra/t194/release/bl31/ras_common.o
  .rodata.ser_probe_memmap.str1.1
-                0x0000000040011a56       0x56 ./234-t194/tegra/t194/release/bl31/std_err_record.o
+                0x0000000040011a50       0x56 ./234-t194/tegra/t194/release/bl31/std_err_record.o
  .rodata.ser_probe_sysreg.str1.1
-                0x0000000040011aac       0x95 ./234-t194/tegra/t194/release/bl31/std_err_record.o
+                0x0000000040011aa6       0x95 ./234-t194/tegra/t194/release/bl31/std_err_record.o
  .rodata.bakery_lock_get.str1.1
-                0x0000000040011b41       0x84 ./234-t194/tegra/t194/release/bl31/bakery_lock_normal.o
+                0x0000000040011b3b       0x84 ./234-t194/tegra/t194/release/bl31/bakery_lock_normal.o
  .rodata.bakery_lock_release.str1.1
-                0x0000000040011bc5       0x84 ./234-t194/tegra/t194/release/bl31/bakery_lock_normal.o
+                0x0000000040011bbf       0x84 ./234-t194/tegra/t194/release/bl31/bakery_lock_normal.o
                                          0x2c (size before relaxing)
  .rodata.psci_set_req_local_pwr_state.str1.1
-                0x0000000040011bc5       0x31 ./234-t194/tegra/t194/release/bl31/psci_common.o
+                0x0000000040011bbf       0x31 ./234-t194/tegra/t194/release/bl31/psci_common.o
  .rodata.psci_validate_power_state.str1.1
-                0x0000000040011bf6       0x2f ./234-t194/tegra/t194/release/bl31/psci_common.o
+                0x0000000040011bf0       0x2f ./234-t194/tegra/t194/release/bl31/psci_common.o
  .rodata.psci_query_sys_suspend_pwrstate.str1.1
-                0x0000000040011c25       0x36 ./234-t194/tegra/t194/release/bl31/psci_common.o
+                0x0000000040011c1f       0x36 ./234-t194/tegra/t194/release/bl31/psci_common.o
  .rodata.psci_is_last_on_cpu.str1.1
-                0x0000000040011c5b       0x2a ./234-t194/tegra/t194/release/bl31/psci_common.o
+                0x0000000040011c55       0x2a ./234-t194/tegra/t194/release/bl31/psci_common.o
  .rodata.psci_do_state_coordination.str1.1
-                0x0000000040011c85       0x1f ./234-t194/tegra/t194/release/bl31/psci_common.o
+                0x0000000040011c7f       0x1f ./234-t194/tegra/t194/release/bl31/psci_common.o
  .rodata.psci_warmboot_entrypoint.str1.1
-                0x0000000040011ca4       0x40 ./234-t194/tegra/t194/release/bl31/psci_common.o
+                0x0000000040011c9e       0x40 ./234-t194/tegra/t194/release/bl31/psci_common.o
  .rodata.psci_register_spd_pm_hook.str1.1
-                0x0000000040011ce4        0xb ./234-t194/tegra/t194/release/bl31/psci_common.o
+                0x0000000040011cde        0xb ./234-t194/tegra/t194/release/bl31/psci_common.o
  .rodata.psci_spd_migrate_info.str1.1
-                0x0000000040011cef       0x82 ./234-t194/tegra/t194/release/bl31/psci_common.o
+                0x0000000040011ce9       0x82 ./234-t194/tegra/t194/release/bl31/psci_common.o
  .rodata.psci_cpu_suspend.str1.1
-                0x0000000040011d71       0xb2 ./234-t194/tegra/t194/release/bl31/psci_main.o
+                0x0000000040011d6b       0xb2 ./234-t194/tegra/t194/release/bl31/psci_main.o
  .rodata.psci_system_suspend.str1.1
-                0x0000000040011e23       0x98 ./234-t194/tegra/t194/release/bl31/psci_main.o
+                0x0000000040011e1d       0x98 ./234-t194/tegra/t194/release/bl31/psci_main.o
  .rodata.psci_cpu_off.str1.1
-                0x0000000040011ebb       0x14 ./234-t194/tegra/t194/release/bl31/psci_main.o
+                0x0000000040011eb5       0x14 ./234-t194/tegra/t194/release/bl31/psci_main.o
  .rodata.psci_migrate.str1.1
-                0x0000000040011ecf       0x71 ./234-t194/tegra/t194/release/bl31/psci_main.o
+                0x0000000040011ec9       0x71 ./234-t194/tegra/t194/release/bl31/psci_main.o
  .rodata.psci_node_hw_state.str1.1
-                0x0000000040011f40       0x93 ./234-t194/tegra/t194/release/bl31/psci_main.o
+                0x0000000040011f3a       0x93 ./234-t194/tegra/t194/release/bl31/psci_main.o
  .rodata.psci_mem_protect.str1.1
-                0x0000000040011fd3       0x73 ./234-t194/tegra/t194/release/bl31/psci_mem_protect.o
+                0x0000000040011fcd       0x73 ./234-t194/tegra/t194/release/bl31/psci_mem_protect.o
  .rodata.psci_mem_chk_range.str1.1
-                0x0000000040012046       0x2a ./234-t194/tegra/t194/release/bl31/psci_mem_protect.o
+                0x0000000040012040       0x2a ./234-t194/tegra/t194/release/bl31/psci_mem_protect.o
  .rodata.psci_do_cpu_off.str1.1
-                0x0000000040012070       0x3d ./234-t194/tegra/t194/release/bl31/psci_off.o
+                0x000000004001206a       0x3d ./234-t194/tegra/t194/release/bl31/psci_off.o
  .rodata.psci_cpu_on_start.str1.1
-                0x00000000400120ad       0xea ./234-t194/tegra/t194/release/bl31/psci_on.o
+                0x00000000400120a7       0xea ./234-t194/tegra/t194/release/bl31/psci_on.o
                                         0x13a (size before relaxing)
  .rodata.psci_cpu_on_finish.str1.1
-                0x0000000040012197       0x32 ./234-t194/tegra/t194/release/bl31/psci_on.o
+                0x0000000040012191       0x32 ./234-t194/tegra/t194/release/bl31/psci_on.o
  .rodata.psci_setup.str1.1
-                0x00000000400121c9       0xe3 ./234-t194/tegra/t194/release/bl31/psci_setup.o
+                0x00000000400121c3       0xe3 ./234-t194/tegra/t194/release/bl31/psci_setup.o
  .rodata.psci_cpu_suspend_start.str1.1
-                0x00000000400122ac       0x80 ./234-t194/tegra/t194/release/bl31/psci_suspend.o
+                0x00000000400122a6       0x80 ./234-t194/tegra/t194/release/bl31/psci_suspend.o
  .rodata.psci_cpu_suspend_finish.str1.1
-                0x000000004001232c       0x9e ./234-t194/tegra/t194/release/bl31/psci_suspend.o
+                0x0000000040012326       0x9e ./234-t194/tegra/t194/release/bl31/psci_suspend.o
  .rodata.psci_system_off.str1.1
-                0x00000000400123ca       0x40 ./234-t194/tegra/t194/release/bl31/psci_system_off.o
+                0x00000000400123c4       0x40 ./234-t194/tegra/t194/release/bl31/psci_system_off.o
  .rodata.psci_system_reset.str1.1
-                0x000000004001240a       0x27 ./234-t194/tegra/t194/release/bl31/psci_system_off.o
+                0x0000000040012404       0x27 ./234-t194/tegra/t194/release/bl31/psci_system_off.o
  .rodata.psci_system_reset2.str1.1
-                0x0000000040012431       0x28 ./234-t194/tegra/t194/release/bl31/psci_system_off.o
+                0x000000004001242b       0x28 ./234-t194/tegra/t194/release/bl31/psci_system_off.o
  .rodata.plat_interrupt_type_to_line.str1.1
-                0x0000000040012459       0x68 ./234-t194/tegra/t194/release/bl31/plat_gicv2.o
+                0x0000000040012453       0x68 ./234-t194/tegra/t194/release/bl31/plat_gicv2.o
                                          0x8b (size before relaxing)
  .rodata.plat_ic_set_interrupt_type.str1.1
-                0x00000000400124c1       0x68 ./234-t194/tegra/t194/release/bl31/plat_gicv2.o
+                0x00000000400124bb       0x68 ./234-t194/tegra/t194/release/bl31/plat_gicv2.o
                                           0x2 (size before relaxing)
  .rodata.plat_ic_raise_el3_sgi.str1.1
-                0x00000000400124c1       0x3d ./234-t194/tegra/t194/release/bl31/plat_gicv2.o
+                0x00000000400124bb       0x3d ./234-t194/tegra/t194/release/bl31/plat_gicv2.o
  .rodata.plat_ic_set_spi_routing.str1.1
-                0x00000000400124fe        0xe ./234-t194/tegra/t194/release/bl31/plat_gicv2.o
+                0x00000000400124f8        0xe ./234-t194/tegra/t194/release/bl31/plat_gicv2.o
  .rodata.bl31_platform_setup.str1.1
-                0x00000000400124fe       0x2b ./234-t194/tegra/t194/release/bl31/tegra_bl31_setup.o
+                0x00000000400124f8       0x2b ./234-t194/tegra/t194/release/bl31/tegra_bl31_setup.o
  .rodata.bl31_plat_runtime_setup.str1.1
-                0x0000000040012529        0xf ./234-t194/tegra/t194/release/bl31/tegra_bl31_setup.o
+                0x0000000040012523        0xf ./234-t194/tegra/t194/release/bl31/tegra_bl31_setup.o
  .rodata.bl31_plat_arch_setup.str1.1
-                0x0000000040012538       0x2b ./234-t194/tegra/t194/release/bl31/tegra_bl31_setup.o
+                0x0000000040012532       0x2b ./234-t194/tegra/t194/release/bl31/tegra_bl31_setup.o
  .rodata.bl31_check_ns_address.str1.1
-                0x0000000040012563       0x4f ./234-t194/tegra/t194/release/bl31/tegra_bl31_setup.o
+                0x000000004001255d       0x4f ./234-t194/tegra/t194/release/bl31/tegra_bl31_setup.o
  .rodata.bl31_early_platform_setup2.str1.1
-                0x00000000400125b2       0xa5 ./234-t194/tegra/t194/release/bl31/tegra_bl31_setup.o
+                0x00000000400125ac       0xa5 ./234-t194/tegra/t194/release/bl31/tegra_bl31_setup.o
  .rodata.CSWTCH.11
-                0x0000000040012657        0x7 ./234-t194/tegra/t194/release/bl31/tegra_platform.o
+                0x0000000040012651        0x7 ./234-t194/tegra/t194/release/bl31/tegra_platform.o
  .rodata.CSWTCH.7
-                0x000000004001265e        0x9 ./234-t194/tegra/t194/release/bl31/tegra_platform.o
+                0x0000000040012658        0x9 ./234-t194/tegra/t194/release/bl31/tegra_platform.o
  .rodata.tegra_cpu_standby.str1.1
-                0x0000000040012667        0xc ./234-t194/tegra/t194/release/bl31/tegra_pm.o
+                0x0000000040012661        0xc ./234-t194/tegra/t194/release/bl31/tegra_pm.o
  .rodata.tegra_validate_power_state.str1.1
-                0x0000000040012673       0x36 ./234-t194/tegra/t194/release/bl31/tegra_pm.o
+                0x000000004001266d       0x36 ./234-t194/tegra/t194/release/bl31/tegra_pm.o
  .rodata.__func__.3428
-                0x00000000400126a9       0x12 ./234-t194/tegra/t194/release/bl31/tegra_pm.o
+                0x00000000400126a3       0x12 ./234-t194/tegra/t194/release/bl31/tegra_pm.o
  .rodata.tegra_sip_handler.str1.1
-                0x00000000400126bb       0x96 ./234-t194/tegra/t194/release/bl31/tegra_sip_calls.o
+                0x00000000400126b5       0x96 ./234-t194/tegra/t194/release/bl31/tegra_sip_calls.o
  .rodata.str1.1
-                0x0000000040012751        0xf ./234-t194/tegra/t194/release/bl31/tegra_sip_calls.o
+                0x000000004001274b        0xf ./234-t194/tegra/t194/release/bl31/tegra_sip_calls.o
  .rodata.__func__.3091
-                0x0000000040012760       0x12 ./234-t194/tegra/t194/release/bl31/tegra_sip_calls.o
+                0x000000004001275a       0x12 ./234-t194/tegra/t194/release/bl31/tegra_sip_calls.o
  .rodata.tegra_bpmp_ipc_send_req_atomic.str1.1
-                0x0000000040012772       0xe4 ./234-t194/tegra/t194/release/bl31/intf.o
+                0x000000004001276c       0xe4 ./234-t194/tegra/t194/release/bl31/intf.o
  .rodata.tegra_bpmp_ipc_init.str1.1
-                0x0000000040012856       0x8c ./234-t194/tegra/t194/release/bl31/intf.o
+                0x0000000040012850       0x8c ./234-t194/tegra/t194/release/bl31/intf.o
  .rodata.tegra_bpmp_ipc_reset_module.str1.1
-                0x00000000400128e2       0x75 ./234-t194/tegra/t194/release/bl31/intf.o
+                0x00000000400128dc       0x75 ./234-t194/tegra/t194/release/bl31/intf.o
  .rodata.tegra_bpmp_ipc_enable_clock.str1.1
-                0x0000000040012957       0x36 ./234-t194/tegra/t194/release/bl31/intf.o
+                0x0000000040012951       0x36 ./234-t194/tegra/t194/release/bl31/intf.o
  .rodata.__func__.2500
-                0x000000004001298d       0x1e ./234-t194/tegra/t194/release/bl31/intf.o
+                0x0000000040012987       0x1e ./234-t194/tegra/t194/release/bl31/intf.o
  .rodata.__func__.2547
-                0x00000000400129ab       0x1f ./234-t194/tegra/t194/release/bl31/intf.o
+                0x00000000400129a5       0x1f ./234-t194/tegra/t194/release/bl31/intf.o
  .rodata.__func__.2559
-                0x00000000400129ca       0x14 ./234-t194/tegra/t194/release/bl31/intf.o
+                0x00000000400129c4       0x14 ./234-t194/tegra/t194/release/bl31/intf.o
  .rodata.__func__.2575
-                0x00000000400129de       0x1c ./234-t194/tegra/t194/release/bl31/intf.o
+                0x00000000400129d8       0x1c ./234-t194/tegra/t194/release/bl31/intf.o
  .rodata.__func__.2581
-                0x00000000400129fa       0x1d ./234-t194/tegra/t194/release/bl31/intf.o
+                0x00000000400129f4       0x1d ./234-t194/tegra/t194/release/bl31/intf.o
  .rodata.ivc_frame_pointer.part.0.str1.1
-                0x0000000040012a17       0x3e ./234-t194/tegra/t194/release/bl31/ivc.o
+                0x0000000040012a11       0x3e ./234-t194/tegra/t194/release/bl31/ivc.o
  .rodata.tegra_ivc_total_queue_size.str1.1
-                0x0000000040012a55       0x2a ./234-t194/tegra/t194/release/bl31/ivc.o
+                0x0000000040012a4f       0x2a ./234-t194/tegra/t194/release/bl31/ivc.o
  .rodata.tegra_ivc_init.str1.1
-                0x0000000040012a7f       0x94 ./234-t194/tegra/t194/release/bl31/ivc.o
+                0x0000000040012a79       0x94 ./234-t194/tegra/t194/release/bl31/ivc.o
  .rodata.tegra_clear_videomem.str1.1
-                0x0000000040012b13       0x2f ./234-t194/tegra/t194/release/bl31/memctrl_v2.o
+                0x0000000040012b0d       0x2f ./234-t194/tegra/t194/release/bl31/memctrl_v2.o
                                          0x38 (size before relaxing)
  .rodata.tegra_memctrl_restore_settings.str1.1
-                0x0000000040012b42       0xe0 ./234-t194/tegra/t194/release/bl31/memctrl_v2.o
+                0x0000000040012b3c       0xe0 ./234-t194/tegra/t194/release/bl31/memctrl_v2.o
  .rodata.tegra_mc_save_context.str1.1
-                0x0000000040012c22      0x11d ./234-t194/tegra/t194/release/bl31/memctrl_v2.o
+                0x0000000040012c1c      0x11d ./234-t194/tegra/t194/release/bl31/memctrl_v2.o
  .rodata.tegra_memctrl_videomem_setup.str1.1
-                0x0000000040012d3f       0xf4 ./234-t194/tegra/t194/release/bl31/memctrl_v2.o
+                0x0000000040012d39       0xf4 ./234-t194/tegra/t194/release/bl31/memctrl_v2.o
  .rodata.tegra_smmu_verify.str1.1
-                0x0000000040012e33       0xda ./234-t194/tegra/t194/release/bl31/smmu.o
+                0x0000000040012e2d       0xda ./234-t194/tegra/t194/release/bl31/smmu.o
  .rodata.__func__.3057
-                0x0000000040012f0d       0x12 ./234-t194/tegra/t194/release/bl31/smmu.o
+                0x0000000040012f07       0x12 ./234-t194/tegra/t194/release/bl31/smmu.o
  .rodata.boot_profiler_init.str1.1
-                0x0000000040012f1f       0x4d ./234-t194/tegra/t194/release/bl31/profiler.o
+                0x0000000040012f19       0x4d ./234-t194/tegra/t194/release/bl31/profiler.o
  .rodata.boot_profiler_add_record.str1.1
-                0x0000000040012f6c        0x3 ./234-t194/tegra/t194/release/bl31/profiler.o
+                0x0000000040012f66        0x3 ./234-t194/tegra/t194/release/bl31/profiler.o
  .rodata.mce_command_handler.str1.1
-                0x0000000040012f6f       0x77 ./234-t194/tegra/t194/release/bl31/mce.o
+                0x0000000040012f69       0x77 ./234-t194/tegra/t194/release/bl31/mce.o
  .rodata.mce_verify_firmware_version.str1.1
-                0x0000000040012fe6       0x3a ./234-t194/tegra/t194/release/bl31/mce.o
+                0x0000000040012fe0       0x3a ./234-t194/tegra/t194/release/bl31/mce.o
  .rodata.mce_enable_strict_checking.str1.1
-                0x0000000040013020       0x24 ./234-t194/tegra/t194/release/bl31/mce.o
+                0x000000004001301a       0x24 ./234-t194/tegra/t194/release/bl31/mce.o
  .rodata.__func__.3569
-                0x0000000040013044       0x14 ./234-t194/tegra/t194/release/bl31/mce.o
+                0x000000004001303e       0x14 ./234-t194/tegra/t194/release/bl31/mce.o
  .rodata.__func__.3596
-                0x0000000040013058       0x1b ./234-t194/tegra/t194/release/bl31/mce.o
+                0x0000000040013052       0x1b ./234-t194/tegra/t194/release/bl31/mce.o
  .rodata.nvg_online_core.str1.1
-                0x0000000040013073       0x1b ./234-t194/tegra/t194/release/bl31/nvg.o
+                0x000000004001306d       0x1b ./234-t194/tegra/t194/release/bl31/nvg.o
  .rodata.nvg_update_ccplex_gsc.str1.1
-                0x000000004001308e       0x1b ./234-t194/tegra/t194/release/bl31/nvg.o
+                0x0000000040013088       0x1b ./234-t194/tegra/t194/release/bl31/nvg.o
  .rodata.nvg_roc_clean_cache_trbits.str1.1
-                0x00000000400130a9        0xd ./234-t194/tegra/t194/release/bl31/nvg.o
+                0x00000000400130a3        0xd ./234-t194/tegra/t194/release/bl31/nvg.o
  .rodata.nvg_enter_cstate.str1.1
-                0x00000000400130b6       0x1a ./234-t194/tegra/t194/release/bl31/nvg.o
+                0x00000000400130b0       0x1a ./234-t194/tegra/t194/release/bl31/nvg.o
  .rodata.nvg_verify_strict_checking_mode.str1.1
-                0x00000000400130d0       0x52 ./234-t194/tegra/t194/release/bl31/nvg.o
+                0x00000000400130ca       0x52 ./234-t194/tegra/t194/release/bl31/nvg.o
  .rodata.__func__.3427
-                0x0000000040013122       0x10 ./234-t194/tegra/t194/release/bl31/nvg.o
+                0x000000004001311c       0x10 ./234-t194/tegra/t194/release/bl31/nvg.o
  .rodata.__func__.3432
-                0x0000000040013132       0x16 ./234-t194/tegra/t194/release/bl31/nvg.o
+                0x000000004001312c       0x16 ./234-t194/tegra/t194/release/bl31/nvg.o
  .rodata.__func__.3437
-                0x0000000040013148       0x1b ./234-t194/tegra/t194/release/bl31/nvg.o
+                0x0000000040013142       0x1b ./234-t194/tegra/t194/release/bl31/nvg.o
  .rodata.__func__.3444
-                0x0000000040013163       0x11 ./234-t194/tegra/t194/release/bl31/nvg.o
+                0x000000004001315d       0x11 ./234-t194/tegra/t194/release/bl31/nvg.o
  .rodata.tegra_se_calculate_save_sha256.str1.1
-                0x0000000040013174       0xc6 ./234-t194/tegra/t194/release/bl31/se.o
+                0x000000004001316e       0xc6 ./234-t194/tegra/t194/release/bl31/se.o
  .rodata.tegra_se_suspend.str1.1
-                0x000000004001323a       0xa8 ./234-t194/tegra/t194/release/bl31/se.o
+                0x0000000040013234       0xa8 ./234-t194/tegra/t194/release/bl31/se.o
                                          0xb1 (size before relaxing)
  .rodata.__func__.2760
-                0x00000000400132e2       0x1f ./234-t194/tegra/t194/release/bl31/se.o
+                0x00000000400132dc       0x1f ./234-t194/tegra/t194/release/bl31/se.o
  .rodata.__func__.2770
-                0x0000000040013301       0x12 ./234-t194/tegra/t194/release/bl31/se.o
+                0x00000000400132fb       0x12 ./234-t194/tegra/t194/release/bl31/se.o
  .rodata.__func__.2785
-                0x0000000040013313       0x28 ./234-t194/tegra/t194/release/bl31/se.o
+                0x000000004001330d       0x28 ./234-t194/tegra/t194/release/bl31/se.o
  .rodata.__func__.2835
-                0x000000004001333b       0x1f ./234-t194/tegra/t194/release/bl31/se.o
+                0x0000000040013335       0x1f ./234-t194/tegra/t194/release/bl31/se.o
  .rodata.__func__.2840
-                0x000000004001335a       0x11 ./234-t194/tegra/t194/release/bl31/se.o
+                0x0000000040013354       0x11 ./234-t194/tegra/t194/release/bl31/se.o
  .rodata.tegra_soc_validate_power_state.str1.1
-                0x000000004001336b       0x20 ./234-t194/tegra/t194/release/bl31/plat_psci_handlers.o
+                0x0000000040013365       0x20 ./234-t194/tegra/t194/release/bl31/plat_psci_handlers.o
  .rodata.tegra_soc_pwr_domain_suspend.str1.1
-                0x000000004001338b       0x30 ./234-t194/tegra/t194/release/bl31/plat_psci_handlers.o
+                0x0000000040013385       0x30 ./234-t194/tegra/t194/release/bl31/plat_psci_handlers.o
                                          0x39 (size before relaxing)
  .rodata.tegra_soc_pwr_domain_power_down_wfi.str1.1
-                0x00000000400133bb       0x40 ./234-t194/tegra/t194/release/bl31/plat_psci_handlers.o
+                0x00000000400133b5       0x40 ./234-t194/tegra/t194/release/bl31/plat_psci_handlers.o
  .rodata.tegra_soc_pwr_domain_on.str1.1
-                0x00000000400133fb       0x1e ./234-t194/tegra/t194/release/bl31/plat_psci_handlers.o
+                0x00000000400133f5       0x1e ./234-t194/tegra/t194/release/bl31/plat_psci_handlers.o
  .rodata.tegra_soc_pwr_domain_on_finish.str1.1
-                0x0000000040013419      0x240 ./234-t194/tegra/t194/release/bl31/plat_psci_handlers.o
+                0x0000000040013413      0x240 ./234-t194/tegra/t194/release/bl31/plat_psci_handlers.o
  .rodata.__func__.3994
-                0x0000000040013659       0x1f ./234-t194/tegra/t194/release/bl31/plat_psci_handlers.o
+                0x0000000040013653       0x1f ./234-t194/tegra/t194/release/bl31/plat_psci_handlers.o
  .rodata.__func__.4054
-                0x0000000040013678       0x18 ./234-t194/tegra/t194/release/bl31/plat_psci_handlers.o
+                0x0000000040013672       0x18 ./234-t194/tegra/t194/release/bl31/plat_psci_handlers.o
  .rodata.tegra194_ras_record_handler.str1.1
-                0x0000000040013690      0x19b ./234-t194/tegra/t194/release/bl31/plat_ras.o
+                0x000000004001368a      0x19b ./234-t194/tegra/t194/release/bl31/plat_ras.o
                                         0x1cb (size before relaxing)
  .rodata.tegra194_ras_enable.str1.1
-                0x000000004001382b       0x2e ./234-t194/tegra/t194/release/bl31/plat_ras.o
+                0x0000000040013825       0x2e ./234-t194/tegra/t194/release/bl31/plat_ras.o
  .rodata.plat_ea_handler.str1.1
-                0x0000000040013859       0x7c ./234-t194/tegra/t194/release/bl31/plat_ras.o
+                0x0000000040013853       0x7c ./234-t194/tegra/t194/release/bl31/plat_ras.o
  .rodata.str1.1
-                0x00000000400138d5      0xa90 ./234-t194/tegra/t194/release/bl31/plat_ras.o
+                0x00000000400138cf      0xa90 ./234-t194/tegra/t194/release/bl31/plat_ras.o
                                         0xa93 (size before relaxing)
  .rodata.plat_secondary_setup.str1.1
-                0x0000000040014365      0x1e9 ./234-t194/tegra/t194/release/bl31/plat_secondary.o
+                0x000000004001435f      0x1e9 ./234-t194/tegra/t194/release/bl31/plat_secondary.o
                                         0x1f2 (size before relaxing)
  .rodata.plat_early_platform_setup.str1.1
-                0x000000004001454e      0x12c ./234-t194/tegra/t194/release/bl31/plat_setup.o
+                0x0000000040014548      0x12c ./234-t194/tegra/t194/release/bl31/plat_setup.o
                                         0x36c (size before relaxing)
  .rodata.tegra_power_domain_tree_desc
-                0x000000004001467a        0x6 ./234-t194/tegra/t194/release/bl31/plat_setup.o
+                0x0000000040014674        0x6 ./234-t194/tegra/t194/release/bl31/plat_setup.o
  .rodata.plat_sip_handler.str1.1
-                0x0000000040014680       0x55 ./234-t194/tegra/t194/release/bl31/plat_sip_calls.o
+                0x000000004001467a       0x55 ./234-t194/tegra/t194/release/bl31/plat_sip_calls.o
  .rodata.str1.1
-                0x00000000400146d5        0xd ./234-t194/tegra/t194/release/bl31/arm_arch_svc_setup.o
+                0x00000000400146cf        0xd ./234-t194/tegra/t194/release/bl31/arm_arch_svc_setup.o
  .rodata.opteed_init_optee_ep_state.str1.1
-                0x00000000400146e2       0x43 ./234-t194/tegra/t194/release/bl31/opteed_common.o
+                0x00000000400146dc       0x43 ./234-t194/tegra/t194/release/bl31/opteed_common.o
  .rodata.opteed_synchronous_sp_entry.str1.1
-                0x0000000040014725       0x59 ./234-t194/tegra/t194/release/bl31/opteed_common.o
+                0x000000004001471f       0x59 ./234-t194/tegra/t194/release/bl31/opteed_common.o
  .rodata.opteed_synchronous_sp_exit.str1.1
-                0x000000004001477e       0x19 ./234-t194/tegra/t194/release/bl31/opteed_common.o
+                0x0000000040014778       0x19 ./234-t194/tegra/t194/release/bl31/opteed_common.o
  .rodata.opteed_smc_handler.str1.1
-                0x0000000040014797       0xc0 ./234-t194/tegra/t194/release/bl31/opteed_main.o
+                0x0000000040014791       0xc0 ./234-t194/tegra/t194/release/bl31/opteed_main.o
  .rodata.opteed_sel1_interrupt_handler.str1.1
-                0x0000000040014857       0x2a ./234-t194/tegra/t194/release/bl31/opteed_main.o
+                0x0000000040014851       0x2a ./234-t194/tegra/t194/release/bl31/opteed_main.o
  .rodata.opteed_init.str1.1
-                0x0000000040014881        0x8 ./234-t194/tegra/t194/release/bl31/opteed_main.o
+                0x000000004001487b        0x8 ./234-t194/tegra/t194/release/bl31/opteed_main.o
                                          0x1a (size before relaxing)
  .rodata.str1.1
-                0x0000000040014889       0x17 ./234-t194/tegra/t194/release/bl31/opteed_main.o
+                0x0000000040014883       0x17 ./234-t194/tegra/t194/release/bl31/opteed_main.o
  .rodata.opteed_system_reset.str1.1
-                0x00000000400148a0       0x69 ./234-t194/tegra/t194/release/bl31/opteed_pm.o
+                0x000000004001489a       0x69 ./234-t194/tegra/t194/release/bl31/opteed_pm.o
  .rodata.opteed_cpu_suspend_finish_handler.str1.1
-                0x0000000040014909       0x3b ./234-t194/tegra/t194/release/bl31/opteed_pm.o
+                0x0000000040014903       0x3b ./234-t194/tegra/t194/release/bl31/opteed_pm.o
  .rodata.opteed_cpu_on_finish_handler.str1.1
-                0x0000000040014944       0x37 ./234-t194/tegra/t194/release/bl31/opteed_pm.o
+                0x000000004001493e       0x37 ./234-t194/tegra/t194/release/bl31/opteed_pm.o
  .rodata.save_event_ctx.str1.1
-                0x000000004001497b       0x5c ./234-t194/tegra/t194/release/bl31/sdei_intr_mgmt.o
+                0x0000000040014975       0x5c ./234-t194/tegra/t194/release/bl31/sdei_intr_mgmt.o
  .rodata.get_outstanding_dispatch.str1.1
-                0x00000000400149d7       0x26 ./234-t194/tegra/t194/release/bl31/sdei_intr_mgmt.o
+                0x00000000400149d1       0x26 ./234-t194/tegra/t194/release/bl31/sdei_intr_mgmt.o
  .rodata.restore_and_resume_ns_context.str1.1
-                0x00000000400149fd        0xf ./234-t194/tegra/t194/release/bl31/sdei_intr_mgmt.o
+                0x00000000400149f7        0xf ./234-t194/tegra/t194/release/bl31/sdei_intr_mgmt.o
  .rodata.sdei_intr_handler.str1.1
-                0x0000000040014a0c      0x108 ./234-t194/tegra/t194/release/bl31/sdei_intr_mgmt.o
+                0x0000000040014a06      0x108 ./234-t194/tegra/t194/release/bl31/sdei_intr_mgmt.o
  .rodata.sdei_event_complete.str1.1
-                0x0000000040014b14      0x108 ./234-t194/tegra/t194/release/bl31/sdei_intr_mgmt.o
+                0x0000000040014b0e      0x108 ./234-t194/tegra/t194/release/bl31/sdei_intr_mgmt.o
                                           0xc (size before relaxing)
  .rodata.sdei_event_context.str1.1
-                0x0000000040014b14       0x16 ./234-t194/tegra/t194/release/bl31/sdei_intr_mgmt.o
+                0x0000000040014b0e       0x16 ./234-t194/tegra/t194/release/bl31/sdei_intr_mgmt.o
  .rodata.sdei_class_init.str1.1
-                0x0000000040014b2a      0x200 ./234-t194/tegra/t194/release/bl31/sdei_main.o
+                0x0000000040014b24      0x200 ./234-t194/tegra/t194/release/bl31/sdei_main.o
                                         0x21f (size before relaxing)
  .rodata.sdei_event_unregister.str1.1
-                0x0000000040014d2a       0x5f ./234-t194/tegra/t194/release/bl31/sdei_main.o
+                0x0000000040014d24       0x5f ./234-t194/tegra/t194/release/bl31/sdei_main.o
  .rodata.sdei_smc_handler.str1.1
-                0x0000000040014d89       0x14 ./234-t194/tegra/t194/release/bl31/sdei_main.o
+                0x0000000040014d83       0x14 ./234-t194/tegra/t194/release/bl31/sdei_main.o
  .rodata.can_sdei_state_trans.str1.1
-                0x0000000040014d9d       0x30 ./234-t194/tegra/t194/release/bl31/sdei_state.o
+                0x0000000040014d97       0x30 ./234-t194/tegra/t194/release/bl31/sdei_state.o
  .rodata.sdei_state_table
-                0x0000000040014dcd       0x50 ./234-t194/tegra/t194/release/bl31/sdei_state.o
+                0x0000000040014dc7       0x50 ./234-t194/tegra/t194/release/bl31/sdei_state.o
  .rodata.std_svc_setup.str1.1
-                0x0000000040014e1d       0x29 ./234-t194/tegra/t194/release/bl31/std_svc_setup.o
+                0x0000000040014e17       0x29 ./234-t194/tegra/t194/release/bl31/std_svc_setup.o
  .rodata.str1.1
-                0x0000000040014e46        0x8 ./234-t194/tegra/t194/release/bl31/std_svc_setup.o
+                0x0000000040014e40        0x8 ./234-t194/tegra/t194/release/bl31/std_svc_setup.o
  .rodata.tf_log.str1.1
-                0x0000000040014e4e       0x5d ./234-t194/tegra/t194/release/bl31/tf_log.o
+                0x0000000040014e48       0x5d ./234-t194/tegra/t194/release/bl31/tf_log.o
  .rodata.console_unregister.str1.1
-                0x0000000040014eab       0x36 ./234-t194/tegra/t194/release/bl31/multi_console.o
+                0x0000000040014ea5       0x36 ./234-t194/tegra/t194/release/bl31/multi_console.o
  .rodata.console_is_registered.str1.1
-                0x0000000040014ee1       0x10 ./234-t194/tegra/t194/release/bl31/multi_console.o
+                0x0000000040014edb       0x10 ./234-t194/tegra/t194/release/bl31/multi_console.o
  .rodata.console_register.str1.1
-                0x0000000040014ef1       0x34 ./234-t194/tegra/t194/release/bl31/multi_console.o
+                0x0000000040014eeb       0x34 ./234-t194/tegra/t194/release/bl31/multi_console.o
  .rodata.console_set_scope.str1.1
-                0x0000000040014f25       0x10 ./234-t194/tegra/t194/release/bl31/multi_console.o
+                0x0000000040014f1f       0x10 ./234-t194/tegra/t194/release/bl31/multi_console.o
  .rodata.str1.1
-                0x0000000040014f35       0x32 ./234-t194/tegra/t194/release/bl31/plat_log_common.o
+                0x0000000040014f2f       0x32 ./234-t194/tegra/t194/release/bl31/plat_log_common.o
  .rodata.xlat_arch_get_max_supported_granule_size.str1.1
-                0x0000000040014f67       0x61 ./234-t194/tegra/t194/release/bl31/xlat_tables_arch.o
+                0x0000000040014f61       0x61 ./234-t194/tegra/t194/release/bl31/xlat_tables_arch.o
  .rodata.tcr_physical_addr_size_bits.str1.1
-                0x0000000040014fc8       0x26 ./234-t194/tegra/t194/release/bl31/xlat_tables_arch.o
+                0x0000000040014fc2       0x26 ./234-t194/tegra/t194/release/bl31/xlat_tables_arch.o
  .rodata.xlat_arch_get_max_supported_pa.str1.1
-                0x0000000040014fee       0x29 ./234-t194/tegra/t194/release/bl31/xlat_tables_arch.o
+                0x0000000040014fe8       0x29 ./234-t194/tegra/t194/release/bl31/xlat_tables_arch.o
  .rodata.xlat_arch_regime_get_xn_desc.str1.1
-                0x0000000040015017       0x3b ./234-t194/tegra/t194/release/bl31/xlat_tables_arch.o
+                0x0000000040015011       0x3b ./234-t194/tegra/t194/release/bl31/xlat_tables_arch.o
  .rodata.xlat_arch_current_el.str1.1
-                0x0000000040015052        0x8 ./234-t194/tegra/t194/release/bl31/xlat_tables_arch.o
+                0x000000004001504c        0x8 ./234-t194/tegra/t194/release/bl31/xlat_tables_arch.o
  .rodata.is_mmu_enabled_ctx.str1.1
-                0x000000004001505a       0x76 ./234-t194/tegra/t194/release/bl31/xlat_tables_arch.o
+                0x0000000040015054       0x76 ./234-t194/tegra/t194/release/bl31/xlat_tables_arch.o
  .rodata.xlat_arch_tlbi_va.str1.1
-                0x00000000400150d0       0x76 ./234-t194/tegra/t194/release/bl31/xlat_tables_arch.o
+                0x00000000400150ca       0x76 ./234-t194/tegra/t194/release/bl31/xlat_tables_arch.o
                                          0x1a (size before relaxing)
  .rodata.setup_mmu_cfg.str1.1
-                0x00000000400150d0       0xbd ./234-t194/tegra/t194/release/bl31/xlat_tables_arch.o
+                0x00000000400150ca       0xbd ./234-t194/tegra/t194/release/bl31/xlat_tables_arch.o
  .rodata.mmap_add_alloc_va.str1.1
-                0x000000004001518d       0x3b ./234-t194/tegra/t194/release/bl31/xlat_tables_context.o
+                0x0000000040015187       0x3b ./234-t194/tegra/t194/release/bl31/xlat_tables_context.o
  .rodata.init_xlat_tables.str1.1
-                0x00000000400151c8       0x3e ./234-t194/tegra/t194/release/bl31/xlat_tables_context.o
+                0x00000000400151c2       0x3e ./234-t194/tegra/t194/release/bl31/xlat_tables_context.o
  .rodata.xlat_table_get_index.str1.1
-                0x0000000040015206       0x26 ./234-t194/tegra/t194/release/bl31/xlat_tables_core.o
+                0x0000000040015200       0x26 ./234-t194/tegra/t194/release/bl31/xlat_tables_core.o
                                          0x2c (size before relaxing)
  .rodata.xlat_tables_unmap_region.str1.1
-                0x000000004001522c       0x90 ./234-t194/tegra/t194/release/bl31/xlat_tables_core.o
+                0x0000000040015226       0x90 ./234-t194/tegra/t194/release/bl31/xlat_tables_core.o
  .rodata.xlat_desc.str1.1
-                0x00000000400152bc       0x8b ./234-t194/tegra/t194/release/bl31/xlat_tables_core.o
+                0x00000000400152b6       0x8b ./234-t194/tegra/t194/release/bl31/xlat_tables_core.o
  .rodata.xlat_tables_map_region.str1.1
-                0x0000000040015347       0x1a ./234-t194/tegra/t194/release/bl31/xlat_tables_core.o
+                0x0000000040015341       0x1a ./234-t194/tegra/t194/release/bl31/xlat_tables_core.o
  .rodata.mmap_add_region_ctx.str1.1
-                0x0000000040015361       0x64 ./234-t194/tegra/t194/release/bl31/xlat_tables_core.o
+                0x000000004001535b       0x64 ./234-t194/tegra/t194/release/bl31/xlat_tables_core.o
  .rodata.mmap_remove_dynamic_region_ctx.str1.1
-                0x00000000400153c5       0x1d ./234-t194/tegra/t194/release/bl31/xlat_tables_core.o
+                0x00000000400153bf       0x1d ./234-t194/tegra/t194/release/bl31/xlat_tables_core.o
  .rodata.init_xlat_tables_ctx.str1.1
-                0x00000000400153e2      0x1f6 ./234-t194/tegra/t194/release/bl31/xlat_tables_core.o
+                0x00000000400153dc      0x1f6 ./234-t194/tegra/t194/release/bl31/xlat_tables_core.o
                                         0x202 (size before relaxing)
  .rodata.gic_reg_name
-                0x00000000400155d8       0x66 ./234-t194/tegra/t194/release/bl31/crash_reporting.o
+                0x00000000400155d2       0x66 ./234-t194/tegra/t194/release/bl31/crash_reporting.o
  .rodata.crash_prints
-                0x000000004001563e      0x2b9 ./234-t194/tegra/t194/release/bl31/crash_reporting.o
+                0x0000000040015638      0x2b9 ./234-t194/tegra/t194/release/bl31/crash_reporting.o
  .rodata.str1.1
-                0x00000000400158f7       0x1b ./234-t194/tegra/t194/release/bl31/ea_delegate.o
+                0x00000000400158f1       0x1b ./234-t194/tegra/t194/release/bl31/ea_delegate.o
  .rodata.str1.1
-                0x0000000040015912       0x1f ./234-t194/tegra/t194/release/bl31/cpu_helpers.o
+                0x000000004001590c       0x1f ./234-t194/tegra/t194/release/bl31/cpu_helpers.o
  .rodata.denver_regs
-                0x0000000040015931        0xb ./234-t194/tegra/t194/release/bl31/denver.o
+                0x000000004001592b        0xb ./234-t194/tegra/t194/release/bl31/denver.o
  .rodata.str1.1
-                0x000000004001593c       0x22 ./234-t194/tegra/t194/release/bl31/context.o
+                0x0000000040015936       0x22 ./234-t194/tegra/t194/release/bl31/context.o
  .rodata.str1.1
-                0x000000004001595e       0x2f ./234-t194/tegra/t194/release/bl31/shared_console.o
+                0x0000000040015958       0x2f ./234-t194/tegra/t194/release/bl31/shared_console.o
  .rodata.panic_str
-                0x000000004001598d       0x11 ./234-t194/tegra/t194/release/bl31/debug.o
+                0x0000000040015987       0x11 ./234-t194/tegra/t194/release/bl31/debug.o
  .rodata.str1.1
-                0x000000004001599e       0x1b ./234-t194/tegra/t194/release/bl31/misc_helpers.o
+                0x0000000040015998       0x1b ./234-t194/tegra/t194/release/bl31/misc_helpers.o
  .rodata.str1.1
-                0x00000000400159b9       0x28 ./234-t194/tegra/t194/release/bl31/enable_mmu.o
+                0x00000000400159b3       0x28 ./234-t194/tegra/t194/release/bl31/enable_mmu.o
  .rodata.__assert.str1.1
-                0x00000000400159e1       0x12 ./234-t194/tegra/t194/release/lib/libc.a(assert.o)
+                0x00000000400159db       0x12 ./234-t194/tegra/t194/release/lib/libc.a(assert.o)
  .rodata.vprintf.str1.1
-                0x00000000400159f3       0x21 ./234-t194/tegra/t194/release/lib/libc.a(printf.o)
+                0x00000000400159ed       0x21 ./234-t194/tegra/t194/release/lib/libc.a(printf.o)
  .rodata.vsnprintf.str1.1
-                0x0000000040015a14       0x39 ./234-t194/tegra/t194/release/lib/libc.a(snprintf.o)
+                0x0000000040015a0e       0x39 ./234-t194/tegra/t194/release/lib/libc.a(snprintf.o)
                                          0x3c (size before relaxing)
  .rodata.str1.1
-                0x0000000040015a4d       0x1a ./234-t194/tegra/t194/release/lib/libc.a(setjmp.o)
+                0x0000000040015a47       0x1a ./234-t194/tegra/t194/release/lib/libc.a(setjmp.o)
                 0x0000000040015a68                . = ALIGN (0x8)
- *fill*         0x0000000040015a67        0x1 
+ *fill*         0x0000000040015a61        0x7 
                 0x0000000040015a68                __RT_SVC_DESCS_START__ = .
  *(rt_svc_descs)
  rt_svc_descs   0x0000000040015a68       0x20 ./234-t194/tegra/t194/release/bl31/tegra_sip_calls.o

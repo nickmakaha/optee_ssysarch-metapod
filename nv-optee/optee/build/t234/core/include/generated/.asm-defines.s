@@ -9,19 +9,19 @@
 // -I core/lib/libtomcrypt/src/headers -I core/lib/libfdt/include
 // -I core/lib/zlib/. -I lib/libunw/include -I core/arch/arm/plat-tegra/.
 // -I core/include
-// -I /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234//core/include
+// -I /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/include
 // -I core/arch/arm/include -I ldelf/include -I lib/libutee/include
-// -iprefix /home/ssysarch/Desktop/nick/jetpack_5/aarch64--glibc--stable-final/bin/../lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/
-// -isysroot /home/ssysarch/Desktop/nick/jetpack_5/aarch64--glibc--stable-final/aarch64-buildroot-linux-gnu/sysroot
-// -MD /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234//core/include/generated/.asm-defines.d
-// -MF /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234//core/include/generated/.asm-defines.s.d
-// -MT /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234//core/include/generated/.asm-defines.s
+// -iprefix /home/nick2/optee-dependencies/aarch64-glibc-stable-final/bin/../lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/
+// -isysroot /home/nick2/optee-dependencies/aarch64-glibc-stable-final/aarch64-buildroot-linux-gnu/sysroot
+// -MD /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/include/generated/.asm-defines.d
+// -MF /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/include/generated/.asm-defines.s.d
+// -MT /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/include/generated/.asm-defines.s
 // -D __KERNEL__ -D ARM64=1 -D __LP64__=1 -D TRACE_LEVEL=4
-// -isystem /home/ssysarch/Desktop/nick/jetpack_5/aarch64--glibc--stable-final/bin/../lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include
-// -include /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234//include/generated/conf.h
+// -isystem /home/nick2/optee-dependencies/aarch64-glibc-stable-final/bin/../lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include
+// -include /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h
 // core/arch/arm/kernel/asm-defines.c -mstrict-align -mno-outline-atomics
 // -mgeneral-regs-only -mcpu=cortex-a53 -mlittle-endian -mabi=lp64
-// -auxbase-strip /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234//core/include/generated/.asm-defines.s
+// -auxbase-strip /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/include/generated/.asm-defines.s
 // -g3 -Os -Wall -Wcast-align -Werror=implicit-function-declaration -Wextra
 // -Wfloat-equal -Wformat-nonliteral -Wformat-security -Wformat=2
 // -Winit-self -Wmissing-declarations -Wsuggest-attribute=format
@@ -372,7 +372,7 @@ __defines:
 	.text
 .Letext0:
 	.file 2 "lib/libutils/isoc/include/stdint.h"
-	.file 3 "/home/ssysarch/Desktop/nick/jetpack_5/aarch64--glibc--stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stddef.h"
+	.file 3 "/home/nick2/optee-dependencies/aarch64-glibc-stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stddef.h"
 	.file 4 "lib/libutee/include/tee_api_types.h"
 	.file 5 "lib/libutils/ext/include/trace.h"
 	.file 6 "lib/libutils/ext/include/types_ext.h"
@@ -3191,7 +3191,7 @@ __defines:
 	.byte	0x3
 	.uleb128 0
 	.uleb128 0x1
-	.file 21 "/home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234//include/generated/conf.h"
+	.file 21 "/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h"
 	.byte	0x3
 	.uleb128 0
 	.uleb128 0x15
@@ -3271,7 +3271,7 @@ __defines:
 	.byte	0x7
 	.4byte	.Ldebug_macro10
 	.byte	0x4
-	.file 29 "/home/ssysarch/Desktop/nick/jetpack_5/aarch64--glibc--stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stdbool.h"
+	.file 29 "/home/nick2/optee-dependencies/aarch64-glibc-stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stdbool.h"
 	.byte	0x3
 	.uleb128 0xc
 	.uleb128 0x1d
@@ -3300,7 +3300,7 @@ __defines:
 	.byte	0x5
 	.uleb128 0x6
 	.4byte	.LASF1342
-	.file 31 "/home/ssysarch/Desktop/nick/jetpack_5/aarch64--glibc--stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stdarg.h"
+	.file 31 "/home/nick2/optee-dependencies/aarch64-glibc-stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stdarg.h"
 	.byte	0x3
 	.uleb128 0x9
 	.uleb128 0x1f
@@ -4906,7 +4906,7 @@ __defines:
 	.uleb128 0
 	.4byte	.LASF390
 	.byte	0
-	.section	.debug_macro,"G",@progbits,wm4.conf.h.2.0b47842518a36b8f7011613d9b3aaac3,comdat
+	.section	.debug_macro,"G",@progbits,wm4.conf.h.2.f08b8cc325fc34fb6b1bafa87b16758b,comdat
 .Ldebug_macro3:
 	.2byte	0x4
 	.byte	0
@@ -10517,8 +10517,8 @@ __defines:
 	.string	"CFG_CRYPTO_SM2_KEP 1"
 .LASF541:
 	.string	"CFG_TEGRA_FUSE 1"
-.LASF1603:
-	.string	"TEE_MATTR_URW (TEE_MATTR_UR | TEE_MATTR_UW)"
+.LASF2353:
+	.string	"entry"
 .LASF343:
 	.string	"__ARM_FP_FAST"
 .LASF1074:
@@ -10577,8 +10577,6 @@ __defines:
 	.string	"LLONG_MAX __LONG_LONG_MAX__"
 .LASF376:
 	.string	"__ARM_FEATURE_PAC_DEFAULT"
-.LASF518:
-	.string	"CFG_STMM_PATH /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/bootloader/standalonemm_optee_t234.bin"
 .LASF1672:
 	.string	"CORTEX_A57_PART_NUM U(0xD07)"
 .LASF403:
@@ -11472,6 +11470,8 @@ __defines:
 	.string	"SM_EXIT_TO_SECURE 1"
 .LASF1059:
 	.string	"__OPTEE_ALG_ECDSA_P256 0x70003041"
+.LASF1444:
+	.string	"SLIST_ENTRY(type) struct { struct type *sle_next; }"
 .LASF781:
 	.string	"PRIi64 __PRI64_PREFIX \"i\""
 .LASF837:
@@ -11590,8 +11590,8 @@ __defines:
 	.string	"FILE_TAG_SIZE TEE_SHA256_HASH_SIZE"
 .LASF2170:
 	.string	"THREAD_CLF_SAVED_SHIFT 4"
-.LASF2386:
-	.string	"/home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/optee_os"
+.LASF1471:
+	.string	"STAILQ_NEXT(elm,field) ((elm)->field.stqe_next)"
 .LASF156:
 	.string	"__FLT_DIG__ 6"
 .LASF78:
@@ -11710,8 +11710,8 @@ __defines:
 	.string	"TAILQ_CONCAT(head1,head2,field) do { if (!TAILQ_EMPTY(head2)) { *(head1)->tqh_last = (head2)->tqh_first; (head2)->tqh_first->field.tqe_prev = (head1)->tqh_last; (head1)->tqh_last = (head2)->tqh_last; TAILQ_INIT((head2)); } } while ( 0)"
 .LASF2231:
 	.string	"sle_next"
-.LASF1471:
-	.string	"STAILQ_NEXT(elm,field) ((elm)->field.stqe_next)"
+.LASF1754:
+	.string	"SCTLR_ENDA BIT64(27)"
 .LASF1856:
 	.string	"ESR_EC_AARCH64_SYS U(0x18)"
 .LASF64:
@@ -12126,6 +12126,8 @@ __defines:
 	.string	"_TAILQ_ENTRY(type,qual) struct { qual type *tqe_next; qual type *qual *tqe_prev; }"
 .LASF1674:
 	.string	"CORTEX_A73_PART_NUM U(0xD09)"
+.LASF1603:
+	.string	"TEE_MATTR_URW (TEE_MATTR_UR | TEE_MATTR_UW)"
 .LASF748:
 	.string	"INTPTR_MIN LONG_MIN"
 .LASF2187:
@@ -12363,8 +12365,6 @@ __defines:
 	.string	"STACK_CANARY_SIZE (4 * sizeof(long))"
 .LASF1138:
 	.string	"TEE_TYPE_DATA 0xA00000BF"
-.LASF685:
-	.string	"SCATTERED_ARRAY_END(array_name,element_type) (__extension__({ static const element_type __scattered_array_end[0] __unused __section(\".scattered_array_\" #array_name \"_2\"); __scattered_array_end; }))"
 .LASF842:
 	.string	"_T_WCHAR_ "
 .LASF89:
@@ -12441,8 +12441,6 @@ __defines:
 	.string	"__INTMAX_WIDTH__ 64"
 .LASF1239:
 	.string	"TEE_PANIC_ID_TEE_RESTRICTOBJECTUSAGE 0x00000705"
-.LASF1832:
-	.string	"TCR_TCMA1 BIT64(58)"
 .LASF1788:
 	.string	"SPSR_MODE_RW_32 U(0x1)"
 .LASF123:
@@ -12542,8 +12540,8 @@ __defines:
 	.string	"TEE_ALG_HKDF_SHA256_DERIVE_KEY 0x800040C0"
 .LASF605:
 	.string	"_CFG_CORE_LTC_SHAKE128 1"
-.LASF1444:
-	.string	"SLIST_ENTRY(type) struct { struct type *sle_next; }"
+.LASF1005:
+	.string	"TEE_ALG_RSASSA_PKCS1_PSS_MGF1_SHA1 0x70212930"
 .LASF1778:
 	.string	"DAIFBIT_ALL (DAIFBIT_FIQ | DAIFBIT_IRQ | DAIFBIT_ABT | DAIFBIT_DBG)"
 .LASF2166:
@@ -12578,6 +12576,8 @@ __defines:
 	.string	"MPIDR_AFF1_MASK (MPIDR_AFFLVL_MASK << MPIDR_AFF1_SHIFT)"
 .LASF1286:
 	.string	"TEE_PANIC_ID_TEE_AEUPDATEAAD 0x00001005"
+.LASF391:
+	.string	"__home_nick2_optee_ssysarch_metapod_nv_optee_optee_build_t234__include_generated_conf_h_ "
 .LASF1932:
 	.string	"ID_AA64ISAR1_API_IMP_DEF_EPAC2_FPAC U(0x4)"
 .LASF1683:
@@ -12978,8 +12978,6 @@ __defines:
 	.string	"_CFG_CORE_LTC_SHA3_DESC 1"
 .LASF1482:
 	.string	"SIMPLEQ_EMPTY(head) ((head)->sqh_first == NULL)"
-.LASF391:
-	.string	"__home_ssysarch_Desktop_nick_jetpack_5_Jetson_Linux_R35_4_1_aarch64_Linux_for_Tegra_sources_tegra_optee_src_nv_optee_optee_build_t234__include_generated_conf_h_ "
 .LASF821:
 	.string	"__size_t__ "
 .LASF1037:
@@ -13395,8 +13393,8 @@ __defines:
 	.string	"TEE_PANIC_ID_TEE_ASYMMETRICDECRYPT 0x00001101"
 .LASF1773:
 	.string	"TTBR_ASID_SHIFT U(48)"
-.LASF1416:
-	.string	"__ASSERT_H "
+.LASF2386:
+	.string	"/home/nick2/optee_ssysarch-metapod/nv-optee/optee/optee_os"
 .LASF814:
 	.string	"__PTRDIFF_T "
 .LASF1293:
@@ -13571,8 +13569,8 @@ __defines:
 	.string	"TEE_ALG_SHA512 0x50000006"
 .LASF1240:
 	.string	"TEE_PANIC_ID_TEE_GETOBJECTINFO1 0x00000706"
-.LASF2353:
-	.string	"entry"
+.LASF518:
+	.string	"CFG_STMM_PATH /home/nick2/optee-dependencies/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/bootloader/standalonemm_optee_t234.bin"
 .LASF1421:
 	.string	"KERNEL_MUTEX_H "
 .LASF375:
@@ -13791,6 +13789,8 @@ __defines:
 	.string	"IS_POWER_OF_TWO(x) (((x) != 0) && (((x) & (~(x) + 1)) == (x)))"
 .LASF1391:
 	.string	"preinit_early(fn) __define_initcall(preinit, 1, fn)"
+.LASF1416:
+	.string	"__ASSERT_H "
 .LASF2344:
 	.string	"sec_saved"
 .LASF1848:
@@ -14755,8 +14755,8 @@ __defines:
 	.string	"SPSR_32_T_MASK U(0x1)"
 .LASF779:
 	.string	"PRIi16 \"i\""
-.LASF1754:
-	.string	"SCTLR_ENDA BIT64(27)"
+.LASF1832:
+	.string	"TCR_TCMA1 BIT64(58)"
 .LASF2196:
 	.string	"long long int"
 .LASF1681:
@@ -14900,8 +14900,8 @@ __defines:
 	.string	"CFG_CORE_HEAP_SIZE 131072"
 .LASF176:
 	.string	"__DBL_MAX__ ((double)1.79769313486231570814527423731704357e+308L)"
-.LASF1005:
-	.string	"TEE_ALG_RSASSA_PKCS1_PSS_MGF1_SHA1 0x70212930"
+.LASF685:
+	.string	"SCATTERED_ARRAY_END(array_name,element_type) (__extension__({ static const element_type __scattered_array_end[0] __unused __section(\".scattered_array_\" #array_name \"_2\"); __scattered_array_end; }))"
 .LASF2296:
 	.string	"fpcr"
 .LASF1903:

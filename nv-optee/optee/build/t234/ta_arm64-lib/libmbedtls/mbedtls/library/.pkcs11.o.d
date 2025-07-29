@@ -1,6 +1,6 @@
-/home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234//ta_arm64-lib/libmbedtls/mbedtls/library/pkcs11.o: \
+/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ta_arm64-lib/libmbedtls/mbedtls/library/pkcs11.o: \
  lib/libmbedtls/mbedtls/library/pkcs11.c \
- /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  lib/libmbedtls/mbedtls/include/mbedtls/pkcs11.h \
  lib/libmbedtls/mbedtls/include/mbedtls/config.h \
  lib/libmbedtls/include/mbedtls_config_uta.h \

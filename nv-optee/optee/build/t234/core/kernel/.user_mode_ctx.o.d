@@ -1,11 +1,11 @@
-/home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234//core/kernel/user_mode_ctx.o: \
+/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/kernel/user_mode_ctx.o: \
  core/kernel/user_mode_ctx.c \
- /home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  core/include/kernel/user_mode_ctx.h lib/libutils/isoc/include/assert.h \
  lib/libutils/ext/include/compiler.h lib/libutils/ext/include/trace.h \
- /home/ssysarch/Desktop/nick/jetpack_5/aarch64--glibc--stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stdarg.h \
- /home/ssysarch/Desktop/nick/jetpack_5/aarch64--glibc--stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stdbool.h \
- /home/ssysarch/Desktop/nick/jetpack_5/aarch64--glibc--stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stddef.h \
+ /home/nick2/optee-dependencies/aarch64-glibc-stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stdarg.h \
+ /home/nick2/optee-dependencies/aarch64-glibc-stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stdbool.h \
+ /home/nick2/optee-dependencies/aarch64-glibc-stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stddef.h \
  lib/libutils/ext/include/trace_levels.h \
  core/arch/arm/include/kernel/secure_partition.h \
  lib/libutils/ext/include/config.h core/arch/arm/include/ffa.h \
