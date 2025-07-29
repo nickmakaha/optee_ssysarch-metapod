@@ -16,11 +16,11 @@ TEEC_EXPORT="/home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/
 
 -2) Build ATF
  
--Run: ./nvbuild.sh in “atf” folder within “optee-src”
+-Run: ./nvbuild.sh in “atf” folder
  
 -3) Generate tos.img (python file should already be in optee-src)
  
--Run: cp $HOME/<SDKManager_JetPack_sources>/Linux_for_Tegra/nv_tegra/tos-scripts/gen_tos_part_img.py .
+-Run: cp $HOME/<SDKManager_JetPack_sources>/Linux_for_Tegra/nv_tegra/tos-scripts/gen_tos_part_img.py . **Not needed in this repo, the py script is already copied**
  
 -Note: within “optee-src” folder
  
@@ -40,3 +40,7 @@ Replace tos-optee_t234.img (found in Linux_for_Tegra/bootloader) with tos.img (g
 
  
 -Once it completes, take out recovery wire, unplug device power, and replug device power:
+
+
+# Building OPTEE 
+* Within nv-optee, run ./optee_src_build.sh -p t234
