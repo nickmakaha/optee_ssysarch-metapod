@@ -98,7 +98,7 @@ Discarded input sections
  .text          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
  .data          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
  .bss           0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
- .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
+ .debug_macro   0x0000000000000000      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
  .debug_macro   0x0000000000000000      0x10b /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
  .debug_macro   0x0000000000000000       0x58 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
  .debug_macro   0x0000000000000000       0x22 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
@@ -136,7 +136,7 @@ Discarded input sections
  .text          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/sys.o
  .data          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/sys.o
  .bss           0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/sys.o
- .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/sys.o
+ .debug_macro   0x0000000000000000      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/sys.o
  .debug_macro   0x0000000000000000       0x7c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/sys.o
  .debug_macro   0x0000000000000000      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/sys.o
  .debug_macro   0x0000000000000000      0x1a0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/sys.o
@@ -184,7 +184,7 @@ Discarded input sections
  .text          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
  .data          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
  .bss           0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
- .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
+ .debug_macro   0x0000000000000000      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
  .debug_macro   0x0000000000000000      0x10b /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
  .debug_macro   0x0000000000000000       0x58 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
  .debug_macro   0x0000000000000000       0x22 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
@@ -233,7 +233,7 @@ Discarded input sections
  .text          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf_rel.o
  .data          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf_rel.o
  .bss           0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf_rel.o
- .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf_rel.o
+ .debug_macro   0x0000000000000000      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf_rel.o
  .debug_macro   0x0000000000000000      0x10b /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf_rel.o
  .debug_macro   0x0000000000000000       0x58 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf_rel.o
  .debug_macro   0x0000000000000000       0x22 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf_rel.o
@@ -273,7 +273,7 @@ Discarded input sections
  .text          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm32.o)
  .data          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm32.o)
  .bss           0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm32.o)
- .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm32.o)
+ .debug_macro   0x0000000000000000      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm32.o)
  .debug_macro   0x0000000000000000      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm32.o)
  .debug_macro   0x0000000000000000       0x16 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm32.o)
  .debug_macro   0x0000000000000000      0x10b /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm32.o)
@@ -304,7 +304,7 @@ Discarded input sections
  .text          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm64.o)
  .data          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm64.o)
  .bss           0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm64.o)
- .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm64.o)
+ .debug_macro   0x0000000000000000      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm64.o)
  .debug_macro   0x0000000000000000      0x10b /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm64.o)
  .debug_macro   0x0000000000000000      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm64.o)
  .debug_macro   0x0000000000000000       0x16 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm64.o)
@@ -336,7 +336,7 @@ Discarded input sections
  .text          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(assert.o)
  .data          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(assert.o)
  .bss           0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(assert.o)
- .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(assert.o)
  .debug_macro   0x0000000000000000      0x10b /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(assert.o)
  .debug_macro   0x0000000000000000       0x58 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(assert.o)
  .debug_macro   0x0000000000000000       0x22 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(assert.o)
@@ -369,7 +369,7 @@ Discarded input sections
  .text          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(tee_uuid_from_str.o)
  .data          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(tee_uuid_from_str.o)
  .bss           0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(tee_uuid_from_str.o)
- .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(tee_uuid_from_str.o)
+ .debug_macro   0x0000000000000000      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(tee_uuid_from_str.o)
  .debug_macro   0x0000000000000000       0x7c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(tee_uuid_from_str.o)
  .debug_macro   0x0000000000000000      0x1a0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(tee_uuid_from_str.o)
  .debug_macro   0x0000000000000000      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(tee_uuid_from_str.o)
@@ -556,7 +556,7 @@ Discarded input sections
                 0x0000000000000000        0x7 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(bget_malloc.o)
  .rodata.__func__.2216
                 0x0000000000000000       0x13 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(bget_malloc.o)
- .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(bget_malloc.o)
  .debug_macro   0x0000000000000000      0x10b /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(bget_malloc.o)
  .debug_macro   0x0000000000000000       0x2e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(bget_malloc.o)
  .debug_macro   0x0000000000000000      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(bget_malloc.o)
@@ -578,7 +578,7 @@ Discarded input sections
  .text          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(isxdigit.o)
  .data          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(isxdigit.o)
  .bss           0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(isxdigit.o)
- .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(isxdigit.o)
+ .debug_macro   0x0000000000000000      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(isxdigit.o)
  .eh_frame      0x0000000000000000       0x28 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(isxdigit.o)
  .group         0x0000000000000000        0xc /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintf.o)
  .group         0x0000000000000000        0xc /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintf.o)
@@ -590,7 +590,7 @@ Discarded input sections
  .bss           0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintf.o)
  .text.vsnprintf
                 0x0000000000000000       0x58 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintf.o)
- .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintf.o)
+ .debug_macro   0x0000000000000000      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintf.o)
  .debug_macro   0x0000000000000000      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintf.o)
  .debug_macro   0x0000000000000000       0x58 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintf.o)
  .debug_macro   0x0000000000000000       0x22 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintf.o)
@@ -600,7 +600,7 @@ Discarded input sections
  .text          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(tolower.o)
  .data          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(tolower.o)
  .bss           0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(tolower.o)
- .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(tolower.o)
+ .debug_macro   0x0000000000000000      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(tolower.o)
  .eh_frame      0x0000000000000000       0x28 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(tolower.o)
  .group         0x0000000000000000        0xc /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcmp.o)
  .group         0x0000000000000000        0xc /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcmp.o)
@@ -610,7 +610,7 @@ Discarded input sections
  .text          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcmp.o)
  .data          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcmp.o)
  .bss           0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcmp.o)
- .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcmp.o)
+ .debug_macro   0x0000000000000000      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcmp.o)
  .debug_macro   0x0000000000000000      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcmp.o)
  .debug_macro   0x0000000000000000       0x16 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcmp.o)
  .eh_frame      0x0000000000000000       0x28 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcmp.o)
@@ -622,7 +622,7 @@ Discarded input sections
  .text          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcpy.o)
  .data          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcpy.o)
  .bss           0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcpy.o)
- .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcpy.o)
+ .debug_macro   0x0000000000000000      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcpy.o)
  .debug_macro   0x0000000000000000       0x7c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcpy.o)
  .debug_macro   0x0000000000000000      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcpy.o)
  .debug_macro   0x0000000000000000       0x16 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcpy.o)
@@ -635,7 +635,7 @@ Discarded input sections
  .text          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memset.o)
  .data          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memset.o)
  .bss           0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memset.o)
- .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memset.o)
+ .debug_macro   0x0000000000000000      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memset.o)
  .debug_macro   0x0000000000000000       0x7c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memset.o)
  .debug_macro   0x0000000000000000      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memset.o)
  .debug_macro   0x0000000000000000       0x16 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memset.o)
@@ -649,7 +649,7 @@ Discarded input sections
  .text          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcmp.o)
  .data          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcmp.o)
  .bss           0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcmp.o)
- .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcmp.o)
+ .debug_macro   0x0000000000000000      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcmp.o)
  .debug_macro   0x0000000000000000       0x7c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcmp.o)
  .debug_macro   0x0000000000000000      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcmp.o)
  .debug_macro   0x0000000000000000       0x16 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcmp.o)
@@ -664,7 +664,7 @@ Discarded input sections
  .text          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcpy.o)
  .data          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcpy.o)
  .bss           0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcpy.o)
- .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcpy.o)
+ .debug_macro   0x0000000000000000      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcpy.o)
  .debug_macro   0x0000000000000000       0x7c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcpy.o)
  .debug_macro   0x0000000000000000      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcpy.o)
  .debug_macro   0x0000000000000000       0x16 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcpy.o)
@@ -678,7 +678,7 @@ Discarded input sections
  .text          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strnlen.o)
  .data          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strnlen.o)
  .bss           0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strnlen.o)
- .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strnlen.o)
+ .debug_macro   0x0000000000000000      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strnlen.o)
  .debug_macro   0x0000000000000000       0x7c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strnlen.o)
  .debug_macro   0x0000000000000000      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strnlen.o)
  .debug_macro   0x0000000000000000       0x16 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strnlen.o)
@@ -697,7 +697,7 @@ Discarded input sections
  .bss           0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintk.o)
  .text.__vsprintf
                 0x0000000000000000       0x4c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintk.o)
- .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintk.o)
+ .debug_macro   0x0000000000000000      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintk.o)
  .debug_macro   0x0000000000000000      0x10b /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintk.o)
  .debug_macro   0x0000000000000000       0x7c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintk.o)
  .debug_macro   0x0000000000000000      0x1a0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintk.o)
@@ -734,7 +734,7 @@ Discarded input sections
                 0x0000000000000000      0x164 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(trace.o)
  .rodata.__func__.1812
                 0x0000000000000000        0xa /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(trace.o)
- .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(trace.o)
+ .debug_macro   0x0000000000000000      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(trace.o)
  .debug_macro   0x0000000000000000      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(trace.o)
  .debug_macro   0x0000000000000000       0x58 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(trace.o)
  .debug_macro   0x0000000000000000       0x22 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(trace.o)
@@ -756,7 +756,7 @@ Discarded input sections
  .text          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memchr.o)
  .data          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memchr.o)
  .bss           0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memchr.o)
- .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memchr.o)
+ .debug_macro   0x0000000000000000      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memchr.o)
  .debug_macro   0x0000000000000000       0x7c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memchr.o)
  .debug_macro   0x0000000000000000      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memchr.o)
  .debug_macro   0x0000000000000000       0x16 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memchr.o)
@@ -771,7 +771,7 @@ Discarded input sections
  .text          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strlen.o)
  .data          0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strlen.o)
  .bss           0x0000000000000000        0x0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strlen.o)
- .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strlen.o)
+ .debug_macro   0x0000000000000000      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strlen.o)
  .debug_macro   0x0000000000000000       0x7c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strlen.o)
  .debug_macro   0x0000000000000000      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strlen.o)
  .debug_macro   0x0000000000000000       0x16 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strlen.o)
@@ -801,7 +801,7 @@ Discarded input sections
                 0x0000000000000000        0x2 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(trace_ext.o)
  .text.puts     0x0000000000000000       0x40 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(trace_ext.o)
  .text.putchar  0x0000000000000000       0x3c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(trace_ext.o)
- .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(trace_ext.o)
  .debug_macro   0x0000000000000000      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(trace_ext.o)
  .debug_macro   0x0000000000000000       0x58 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(trace_ext.o)
  .debug_macro   0x0000000000000000       0x16 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(trace_ext.o)
@@ -1722,62 +1722,62 @@ OUTPUT(/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ldelf
  .debug_aranges
                 0x0000000000000ff0       0x70 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(trace_ext.o)
 
-.debug_str      0x0000000000000000    0x16355
+.debug_str      0x0000000000000000    0x162c1
  .debug_str     0x0000000000000000       0x5b /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/start_a64.o
  .debug_str     0x000000000000005b       0x15 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/syscalls_a64.o
                                          0x5e (size before relaxing)
  .debug_str     0x0000000000000070       0x18 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/tlsdesc_rel_a64.o
                                          0x61 (size before relaxing)
- .debug_str     0x0000000000000088     0xe65a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
-                                       0xe899 (size before relaxing)
- .debug_str     0x000000000000e6e2      0xaa1 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
-                                       0xf328 (size before relaxing)
- .debug_str     0x000000000000f183      0x16b /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/sys.o
-                                       0xb897 (size before relaxing)
- .debug_str     0x000000000000f2ee     0x50ba /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
-                                      0x14467 (size before relaxing)
- .debug_str     0x00000000000143a8      0x26e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf_rel.o
-                                      0x13325 (size before relaxing)
- .debug_str     0x0000000000014616      0x2ad /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm32.o)
-                                       0x6b14 (size before relaxing)
- .debug_str     0x00000000000148c3       0x83 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm64.o)
-                                       0x685d (size before relaxing)
- .debug_str     0x0000000000014946       0x99 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(assert.o)
-                                       0xabf3 (size before relaxing)
- .debug_str     0x00000000000149df       0x76 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(tee_uuid_from_str.o)
-                                       0xabbd (size before relaxing)
- .debug_str     0x0000000000014a55       0x29 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(utee_syscalls_a64.o)
+ .debug_str     0x0000000000000088     0xe5c6 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
+                                       0xe805 (size before relaxing)
+ .debug_str     0x000000000000e64e      0xaa1 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
+                                       0xf294 (size before relaxing)
+ .debug_str     0x000000000000f0ef      0x16b /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/sys.o
+                                       0xb803 (size before relaxing)
+ .debug_str     0x000000000000f25a     0x50ba /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
+                                      0x143d3 (size before relaxing)
+ .debug_str     0x0000000000014314      0x26e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf_rel.o
+                                      0x13291 (size before relaxing)
+ .debug_str     0x0000000000014582      0x2ad /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm32.o)
+                                       0x6a80 (size before relaxing)
+ .debug_str     0x000000000001482f       0x83 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm64.o)
+                                       0x67c9 (size before relaxing)
+ .debug_str     0x00000000000148b2       0x99 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(assert.o)
+                                       0xab5f (size before relaxing)
+ .debug_str     0x000000000001494b       0x76 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(tee_uuid_from_str.o)
+                                       0xab29 (size before relaxing)
+ .debug_str     0x00000000000149c1       0x29 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(utee_syscalls_a64.o)
                                          0x72 (size before relaxing)
- .debug_str     0x0000000000014a7e      0x860 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(bget_malloc.o)
-                                       0x74ba (size before relaxing)
- .debug_str     0x00000000000152de       0x46 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(isxdigit.o)
-                                       0x41cf (size before relaxing)
- .debug_str     0x0000000000015324       0x59 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintf.o)
-                                       0x474a (size before relaxing)
- .debug_str     0x000000000001537d       0x44 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(tolower.o)
-                                       0x41cc (size before relaxing)
- .debug_str     0x00000000000153c1      0x26f /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcmp.o)
-                                       0x47b1 (size before relaxing)
- .debug_str     0x0000000000015630      0x1c7 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcpy.o)
-                                       0x480a (size before relaxing)
- .debug_str     0x00000000000157f7      0x160 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memset.o)
-                                       0x47a4 (size before relaxing)
- .debug_str     0x0000000000015957       0x9a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcmp.o)
-                                       0x498e (size before relaxing)
- .debug_str     0x00000000000159f1       0xea /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcpy.o)
-                                       0x4997 (size before relaxing)
- .debug_str     0x0000000000015adb       0x62 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strnlen.o)
-                                       0x4732 (size before relaxing)
- .debug_str     0x0000000000015b3d      0x5b0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintk.o)
-                                       0x5c59 (size before relaxing)
- .debug_str     0x00000000000160ed      0x109 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(trace.o)
-                                       0x6922 (size before relaxing)
- .debug_str     0x00000000000161f6       0xb6 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memchr.o)
-                                       0x49f1 (size before relaxing)
- .debug_str     0x00000000000162ac       0x50 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strlen.o)
-                                       0x498e (size before relaxing)
- .debug_str     0x00000000000162fc       0x59 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(trace_ext.o)
-                                       0xaf98 (size before relaxing)
+ .debug_str     0x00000000000149ea      0x860 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(bget_malloc.o)
+                                       0x7426 (size before relaxing)
+ .debug_str     0x000000000001524a       0x46 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(isxdigit.o)
+                                       0x413b (size before relaxing)
+ .debug_str     0x0000000000015290       0x59 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintf.o)
+                                       0x46b6 (size before relaxing)
+ .debug_str     0x00000000000152e9       0x44 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(tolower.o)
+                                       0x4138 (size before relaxing)
+ .debug_str     0x000000000001532d      0x26f /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcmp.o)
+                                       0x471d (size before relaxing)
+ .debug_str     0x000000000001559c      0x1c7 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcpy.o)
+                                       0x4776 (size before relaxing)
+ .debug_str     0x0000000000015763      0x160 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memset.o)
+                                       0x4710 (size before relaxing)
+ .debug_str     0x00000000000158c3       0x9a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcmp.o)
+                                       0x48fa (size before relaxing)
+ .debug_str     0x000000000001595d       0xea /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcpy.o)
+                                       0x4903 (size before relaxing)
+ .debug_str     0x0000000000015a47       0x62 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strnlen.o)
+                                       0x469e (size before relaxing)
+ .debug_str     0x0000000000015aa9      0x5b0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintk.o)
+                                       0x5bc5 (size before relaxing)
+ .debug_str     0x0000000000016059      0x109 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(trace.o)
+                                       0x688e (size before relaxing)
+ .debug_str     0x0000000000016162       0xb6 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memchr.o)
+                                       0x495d (size before relaxing)
+ .debug_str     0x0000000000016218       0x50 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strlen.o)
+                                       0x48fa (size before relaxing)
+ .debug_str     0x0000000000016268       0x59 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(trace_ext.o)
+                                       0xaf04 (size before relaxing)
 
 .debug_ranges   0x0000000000000000     0x2cd0
  .debug_ranges  0x0000000000000000       0xf0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/syscalls_a64.o
@@ -1833,87 +1833,87 @@ OUTPUT(/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ldelf
  .debug_loc     0x0000000000017c16       0x8c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strlen.o)
  .debug_loc     0x0000000000017ca2      0x1c4 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(trace_ext.o)
 
-.debug_macro    0x0000000000000000    0x12a20
+.debug_macro    0x0000000000000000    0x12a12
  .debug_macro   0x0000000000000000       0xfd /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
  .debug_macro   0x00000000000000fd      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
- .debug_macro   0x0000000000000a37      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
- .debug_macro   0x000000000000101a       0x7c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
- .debug_macro   0x0000000000001096      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
- .debug_macro   0x000000000000120a      0x1a0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
- .debug_macro   0x00000000000013aa       0xc4 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
- .debug_macro   0x000000000000146e       0x22 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
- .debug_macro   0x0000000000001490       0x2e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
- .debug_macro   0x00000000000014be      0x10b /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
- .debug_macro   0x00000000000015c9      0xcf1 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
- .debug_macro   0x00000000000022ba       0x35 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
- .debug_macro   0x00000000000022ef       0xf0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
- .debug_macro   0x00000000000023df       0x88 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
- .debug_macro   0x0000000000002467       0xb6 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
- .debug_macro   0x000000000000251d       0x16 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
- .debug_macro   0x0000000000002533       0x58 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
- .debug_macro   0x000000000000258b      0x2e9 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
- .debug_macro   0x0000000000002874      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
- .debug_macro   0x00000000000029e8      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
- .debug_macro   0x0000000000003322       0x34 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
- .debug_macro   0x0000000000003356       0x79 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
- .debug_macro   0x00000000000033cf       0x16 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
- .debug_macro   0x00000000000033e5       0x39 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
- .debug_macro   0x000000000000341e       0x22 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
- .debug_macro   0x0000000000003440      0x106 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/sys.o
- .debug_macro   0x0000000000003546      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/sys.o
- .debug_macro   0x0000000000003e80      0x233 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
- .debug_macro   0x00000000000040b3      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
- .debug_macro   0x00000000000049ed       0x2e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
- .debug_macro   0x0000000000004a1b     0x1609 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
- .debug_macro   0x0000000000006024       0x4a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
- .debug_macro   0x000000000000606e       0x5f /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
- .debug_macro   0x00000000000060cd       0xfd /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
- .debug_macro   0x00000000000061ca      0x180 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf_rel.o
- .debug_macro   0x000000000000634a      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf_rel.o
- .debug_macro   0x0000000000006c84       0x8e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf_rel.o
- .debug_macro   0x0000000000006d12      0x156 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm32.o)
- .debug_macro   0x0000000000006e68      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm32.o)
- .debug_macro   0x00000000000077a2       0xcc /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm64.o)
- .debug_macro   0x000000000000786e      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm64.o)
- .debug_macro   0x00000000000081a8      0x105 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(assert.o)
- .debug_macro   0x00000000000082ad      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(assert.o)
- .debug_macro   0x0000000000008be7       0xdf /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(tee_uuid_from_str.o)
- .debug_macro   0x0000000000008cc6      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(tee_uuid_from_str.o)
- .debug_macro   0x0000000000009600      0x17a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(bget_malloc.o)
- .debug_macro   0x000000000000977a      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(bget_malloc.o)
- .debug_macro   0x000000000000a0b4       0x1c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(bget_malloc.o)
- .debug_macro   0x000000000000a0d0       0x10 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(bget_malloc.o)
- .debug_macro   0x000000000000a0e0       0x3c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(bget_malloc.o)
- .debug_macro   0x000000000000a11c       0x24 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(isxdigit.o)
- .debug_macro   0x000000000000a140      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(isxdigit.o)
- .debug_macro   0x000000000000aa7a       0x4d /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintf.o)
- .debug_macro   0x000000000000aac7      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintf.o)
- .debug_macro   0x000000000000b401       0x24 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(tolower.o)
- .debug_macro   0x000000000000b425      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(tolower.o)
- .debug_macro   0x000000000000bd5f       0x51 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcmp.o)
- .debug_macro   0x000000000000bdb0      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcmp.o)
- .debug_macro   0x000000000000c6ea       0x7c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcmp.o)
- .debug_macro   0x000000000000c766       0x57 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcpy.o)
- .debug_macro   0x000000000000c7bd      0x934 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcpy.o)
- .debug_macro   0x000000000000d0f1       0x51 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memset.o)
- .debug_macro   0x000000000000d142      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memset.o)
- .debug_macro   0x000000000000da7c       0x54 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcmp.o)
- .debug_macro   0x000000000000dad0      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcmp.o)
- .debug_macro   0x000000000000e40a       0x54 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcpy.o)
- .debug_macro   0x000000000000e45e      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcpy.o)
- .debug_macro   0x000000000000ed98       0x45 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strnlen.o)
- .debug_macro   0x000000000000eddd      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strnlen.o)
- .debug_macro   0x000000000000f717      0x13d /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintk.o)
- .debug_macro   0x000000000000f854      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintk.o)
- .debug_macro   0x000000000001018e       0xd6 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(trace.o)
- .debug_macro   0x0000000000010264      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(trace.o)
- .debug_macro   0x0000000000010b9e       0xea /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(trace.o)
- .debug_macro   0x0000000000010c88       0x66 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memchr.o)
- .debug_macro   0x0000000000010cee      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memchr.o)
- .debug_macro   0x0000000000011628       0x5a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strlen.o)
- .debug_macro   0x0000000000011682      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strlen.o)
- .debug_macro   0x0000000000011fbc      0x12a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(trace_ext.o)
- .debug_macro   0x00000000000120e6      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000a37      0x5d5 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
+ .debug_macro   0x000000000000100c       0x7c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
+ .debug_macro   0x0000000000001088      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
+ .debug_macro   0x00000000000011fc      0x1a0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
+ .debug_macro   0x000000000000139c       0xc4 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
+ .debug_macro   0x0000000000001460       0x22 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
+ .debug_macro   0x0000000000001482       0x2e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
+ .debug_macro   0x00000000000014b0      0x10b /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
+ .debug_macro   0x00000000000015bb      0xcf1 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
+ .debug_macro   0x00000000000022ac       0x35 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
+ .debug_macro   0x00000000000022e1       0xf0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
+ .debug_macro   0x00000000000023d1       0x88 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
+ .debug_macro   0x0000000000002459       0xb6 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
+ .debug_macro   0x000000000000250f       0x16 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
+ .debug_macro   0x0000000000002525       0x58 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
+ .debug_macro   0x000000000000257d      0x2e9 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o
+ .debug_macro   0x0000000000002866      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
+ .debug_macro   0x00000000000029da      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
+ .debug_macro   0x0000000000003314       0x34 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
+ .debug_macro   0x0000000000003348       0x79 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
+ .debug_macro   0x00000000000033c1       0x16 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
+ .debug_macro   0x00000000000033d7       0x39 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
+ .debug_macro   0x0000000000003410       0x22 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/main.o
+ .debug_macro   0x0000000000003432      0x106 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/sys.o
+ .debug_macro   0x0000000000003538      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/sys.o
+ .debug_macro   0x0000000000003e72      0x233 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
+ .debug_macro   0x00000000000040a5      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
+ .debug_macro   0x00000000000049df       0x2e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
+ .debug_macro   0x0000000000004a0d     0x1609 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
+ .debug_macro   0x0000000000006016       0x4a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
+ .debug_macro   0x0000000000006060       0x5f /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
+ .debug_macro   0x00000000000060bf       0xfd /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf.o
+ .debug_macro   0x00000000000061bc      0x180 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf_rel.o
+ .debug_macro   0x000000000000633c      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf_rel.o
+ .debug_macro   0x0000000000006c76       0x8e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/ta_elf_rel.o
+ .debug_macro   0x0000000000006d04      0x156 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm32.o)
+ .debug_macro   0x0000000000006e5a      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm32.o)
+ .debug_macro   0x0000000000007794       0xcc /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm64.o)
+ .debug_macro   0x0000000000007860      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libunw/libunw.a(unwind_arm64.o)
+ .debug_macro   0x000000000000819a      0x105 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(assert.o)
+ .debug_macro   0x000000000000829f      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(assert.o)
+ .debug_macro   0x0000000000008bd9       0xdf /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(tee_uuid_from_str.o)
+ .debug_macro   0x0000000000008cb8      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(tee_uuid_from_str.o)
+ .debug_macro   0x00000000000095f2      0x17a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(bget_malloc.o)
+ .debug_macro   0x000000000000976c      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(bget_malloc.o)
+ .debug_macro   0x000000000000a0a6       0x1c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(bget_malloc.o)
+ .debug_macro   0x000000000000a0c2       0x10 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(bget_malloc.o)
+ .debug_macro   0x000000000000a0d2       0x3c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(bget_malloc.o)
+ .debug_macro   0x000000000000a10e       0x24 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(isxdigit.o)
+ .debug_macro   0x000000000000a132      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(isxdigit.o)
+ .debug_macro   0x000000000000aa6c       0x4d /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintf.o)
+ .debug_macro   0x000000000000aab9      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintf.o)
+ .debug_macro   0x000000000000b3f3       0x24 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(tolower.o)
+ .debug_macro   0x000000000000b417      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(tolower.o)
+ .debug_macro   0x000000000000bd51       0x51 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcmp.o)
+ .debug_macro   0x000000000000bda2      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcmp.o)
+ .debug_macro   0x000000000000c6dc       0x7c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcmp.o)
+ .debug_macro   0x000000000000c758       0x57 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcpy.o)
+ .debug_macro   0x000000000000c7af      0x934 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memcpy.o)
+ .debug_macro   0x000000000000d0e3       0x51 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memset.o)
+ .debug_macro   0x000000000000d134      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memset.o)
+ .debug_macro   0x000000000000da6e       0x54 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcmp.o)
+ .debug_macro   0x000000000000dac2      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcmp.o)
+ .debug_macro   0x000000000000e3fc       0x54 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcpy.o)
+ .debug_macro   0x000000000000e450      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strcpy.o)
+ .debug_macro   0x000000000000ed8a       0x45 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strnlen.o)
+ .debug_macro   0x000000000000edcf      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strnlen.o)
+ .debug_macro   0x000000000000f709      0x13d /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintk.o)
+ .debug_macro   0x000000000000f846      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(snprintk.o)
+ .debug_macro   0x0000000000010180       0xd6 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(trace.o)
+ .debug_macro   0x0000000000010256      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(trace.o)
+ .debug_macro   0x0000000000010b90       0xea /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(trace.o)
+ .debug_macro   0x0000000000010c7a       0x66 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memchr.o)
+ .debug_macro   0x0000000000010ce0      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(memchr.o)
+ .debug_macro   0x000000000001161a       0x5a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strlen.o)
+ .debug_macro   0x0000000000011674      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/libutils.a(strlen.o)
+ .debug_macro   0x0000000000011fae      0x12a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(trace_ext.o)
+ .debug_macro   0x00000000000120d8      0x93a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/libutee.a(trace_ext.o)
 
 .comment        0x0000000000000000       0x1f
  .comment       0x0000000000000000       0x1f /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf/dl.o

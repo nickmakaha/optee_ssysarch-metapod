@@ -1,0 +1,10 @@
+src-y += m3_bind.c 
+srcs-y += m3_code.c
+srcs-y += m3_compile.c
+srcs-y += m3_core.c
+srcs-y += m3_env.c
+srcs-y += m3_exec.c
+srcs-y += m3_function.c
+srcs-y += m3_info.c
+srcs-y += m3_module.c
+srcs-y += m3_parse.c

@@ -197,7 +197,6 @@ set(CFG_SM_NO_CYCLE_COUNTING y)
 set(CFG_SP_INIT_INFO_MAX_SIZE 0x1000)
 set(CFG_STACK_THREAD_EXTRA 0)
 set(CFG_STACK_TMP_EXTRA 0)
-set(CFG_STMM_PATH /home/nick2/optee-dependencies/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/bootloader/standalonemm_optee_t234.bin)
 # CFG_SYSCALL_FTRACE is not set 
 # CFG_SYSCALL_WRAPPERS_MCOUNT is not set 
 set(CFG_SYSTEM_PTA y)
@@ -255,7 +254,7 @@ set(CFG_WITH_PTA_TEST y)
 # CFG_WITH_SOFTWARE_PRNG is not set 
 set(CFG_WITH_STACK_CANARIES y)
 set(CFG_WITH_STATS y)
-set(CFG_WITH_STMM_SP y)
+# CFG_WITH_STMM_SP is not set 
 set(CFG_WITH_USER_TA y)
 set(CFG_WITH_VFP y)
 set(CFG_ZLIB y)

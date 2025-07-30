@@ -4,6 +4,7 @@ subdirs-y += kernel
 subdirs-y += mm
 subdirs-y += pta
 subdirs-y += tee
+subdirs-y += wasm
 subdirs-$(CFG_TEE_CORE_EMBED_INTERNAL_TESTS) += tests
 
 ifeq ($(CFG_WITH_USER_TA),y)
