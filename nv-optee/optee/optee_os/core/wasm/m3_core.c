@@ -16,7 +16,9 @@ void m3_Abort(const char* message) {
 #ifdef DEBUG
     fprintf(stderr, "Error: %s\n", message);
 #endif
-    abort();
+   while (1) {
+        // infinite loop to halt execution
+    }
 }
 
 M3_WEAK

@@ -9,6 +9,7 @@
 /* CFG_BOOT_SECONDARY_REQUEST is not set */
 #define CFG_BUILD_IN_TREE_TA 1
 #define CFG_CC_OPT_LEVEL s
+#define CFG_CFLAGS -Dd_m3HasFloat=0
 #define CFG_COMPAT_GP10_DES 1
 #define CFG_CORE_ARM64_PA_BITS 40
 /* CFG_CORE_ASLR is not set */
@@ -197,6 +198,7 @@
 #define CFG_SP_INIT_INFO_MAX_SIZE 0x1000
 #define CFG_STACK_THREAD_EXTRA 0
 #define CFG_STACK_TMP_EXTRA 0
+#define CFG_STMM_PATH /home/nick2/optee-dependencies/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/bootloader/standalonemm_optee_t234.bin
 /* CFG_SYSCALL_FTRACE is not set */
 /* CFG_SYSCALL_WRAPPERS_MCOUNT is not set */
 #define CFG_SYSTEM_PTA 1
@@ -254,7 +256,7 @@
 /* CFG_WITH_SOFTWARE_PRNG is not set */
 #define CFG_WITH_STACK_CANARIES 1
 #define CFG_WITH_STATS 1
-/* CFG_WITH_STMM_SP is not set */
+#define CFG_WITH_STMM_SP 1
 #define CFG_WITH_USER_TA 1
 #define CFG_WITH_VFP 1
 #define CFG_ZLIB 1

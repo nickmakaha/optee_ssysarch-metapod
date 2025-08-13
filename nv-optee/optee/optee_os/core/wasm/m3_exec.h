@@ -4,6 +4,7 @@
 //  Created by Steven Massey on 4/17/19.
 //  Copyright © 2019 Steven Massey. All rights reserved.
 
+#define d_m3HasFloat 0
 
 #ifndef m3_exec_h
 #define m3_exec_h

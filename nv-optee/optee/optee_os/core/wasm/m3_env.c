@@ -1000,7 +1000,7 @@ _   (checkStartFunction(i_function->module))
     {
         switch (d_FuncArgType(ftype, i)) {
         case c_m3Type_i32:  *(i32*)(s) = strtoul(i_argv[i], NULL, 10);  s += 8; break;
-        case c_m3Type_i64:  *(i64*)(s) = strtoull(i_argv[i], NULL, 10); s += 8; break;
+        case c_m3Type_i64:  *(i64*)(s) = strtoul(i_argv[i], NULL, 10); s += 8; break;
 # if d_m3HasFloat
         case c_m3Type_f32:  *(f32*)(s) = strtod(i_argv[i], NULL);       s += 8; break;  // strtof would be less portable
         case c_m3Type_f64:  *(f64*)(s) = strtod(i_argv[i], NULL);       s += 8; break;
