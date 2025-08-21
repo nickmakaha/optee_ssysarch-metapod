@@ -207,7 +207,7 @@ Discarded input sections
  .group         0x0000000000000000        0xc /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
  .group         0x0000000000000000        0xc /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
  .group         0x0000000000000000        0xc /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
- .debug_macro   0x0000000000000000      0x5ea /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
  .debug_macro   0x0000000000000000      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
  .debug_macro   0x0000000000000000       0x16 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
  .debug_macro   0x0000000000000000       0x7c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
@@ -226,7 +226,7 @@ Discarded input sections
  .group         0x0000000000000000        0xc /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
  .group         0x0000000000000000        0xc /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
  .group         0x0000000000000000        0xc /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
- .debug_macro   0x0000000000000000      0x5ea /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
  .debug_macro   0x0000000000000000       0x7c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
  .debug_macro   0x0000000000000000      0x1a0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
  .debug_macro   0x0000000000000000      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
@@ -242,16 +242,16 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0xfd /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
  .group         0x0000000000000000        0xc /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
  .group         0x0000000000000000        0xc /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
- .debug_macro   0x0000000000000000      0x5ea /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
+ .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
  .group         0x0000000000000000        0xc /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
  .group         0x0000000000000000        0xc /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
- .debug_macro   0x0000000000000000      0x5ea /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
+ .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
  .group         0x0000000000000000        0xc /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
  .group         0x0000000000000000        0xc /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
  .group         0x0000000000000000        0xc /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
  .group         0x0000000000000000        0xc /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
  .group         0x0000000000000000        0xc /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
- .debug_macro   0x0000000000000000      0x5ea /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+ .debug_macro   0x0000000000000000      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
  .debug_macro   0x0000000000000000       0x7c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
  .debug_macro   0x0000000000000000      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
  .debug_macro   0x0000000000000000       0x16 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
@@ -746,65 +746,65 @@ OUTPUT(/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/5
  .debug_aranges
                 0x0000000000000250       0x30 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
 
-.debug_macro    0x0000000000000000     0xb509
+.debug_macro    0x0000000000000000     0xb4de
  .debug_macro   0x0000000000000000       0xc2 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
- .debug_macro   0x00000000000000c2      0x99a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
- .debug_macro   0x0000000000000a5c       0x7c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
- .debug_macro   0x0000000000000ad8      0x1a0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
- .debug_macro   0x0000000000000c78      0x10b /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
- .debug_macro   0x0000000000000d83      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
- .debug_macro   0x0000000000000ef7      0xcf1 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
- .debug_macro   0x0000000000001be8       0xc4 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
- .debug_macro   0x0000000000001cac       0x22 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
- .debug_macro   0x0000000000001cce       0x35 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
- .debug_macro   0x0000000000001d03       0x58 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
- .debug_macro   0x0000000000001d5b       0x34 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
- .debug_macro   0x0000000000001d8f       0x79 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
- .debug_macro   0x0000000000001e08      0x20b /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
- .debug_macro   0x0000000000002013      0x99a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
- .debug_macro   0x00000000000029ad       0x1c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
- .debug_macro   0x00000000000029c9     0x1609 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
- .debug_macro   0x0000000000003fd2       0x5f /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
- .debug_macro   0x0000000000004031       0x16 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
- .debug_macro   0x0000000000004047       0x16 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
- .debug_macro   0x000000000000405d       0x2e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
- .debug_macro   0x000000000000408b       0xf0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
- .debug_macro   0x000000000000417b       0x1c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
- .debug_macro   0x0000000000004197       0x16 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
- .debug_macro   0x00000000000041ad      0x252 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
- .debug_macro   0x00000000000043ff       0xdc /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
- .debug_macro   0x00000000000044db       0xfd /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
- .debug_macro   0x00000000000045d8      0x106 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
- .debug_macro   0x00000000000046de      0x99a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
- .debug_macro   0x0000000000005078       0x1b /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/test_float_subj.o
- .debug_macro   0x0000000000005093      0x99a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/test_float_subj.o
- .debug_macro   0x0000000000005a2d       0xd0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/attestation.o
- .debug_macro   0x0000000000005afd      0x99a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/attestation.o
- .debug_macro   0x0000000000006497       0x28 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/attestation.o
- .debug_macro   0x00000000000064bf      0x190 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
- .debug_macro   0x000000000000664f      0x994 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
- .debug_macro   0x0000000000006fe3       0x2e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
- .debug_macro   0x0000000000007011       0x33 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
- .debug_macro   0x0000000000007044       0x88 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
- .debug_macro   0x00000000000070cc       0x22 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
- .debug_macro   0x00000000000070ee      0x187 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
- .debug_macro   0x0000000000007275      0x95e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
- .debug_macro   0x0000000000007bd3      0x5ea /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
- .debug_macro   0x00000000000081bd       0xea /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
- .debug_macro   0x00000000000082a7       0x89 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
- .debug_macro   0x0000000000008330       0x39 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
- .debug_macro   0x0000000000008369       0x8e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
- .debug_macro   0x00000000000083f7       0x54 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
- .debug_macro   0x000000000000844b      0x95e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
- .debug_macro   0x0000000000008da9       0x7c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
- .debug_macro   0x0000000000008e25       0xdf /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
- .debug_macro   0x0000000000008f04      0x95e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
- .debug_macro   0x0000000000009862       0x24 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
- .debug_macro   0x0000000000009886      0x95e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
- .debug_macro   0x000000000000a1e4       0x24 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
- .debug_macro   0x000000000000a208      0x95e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
- .debug_macro   0x000000000000ab66       0x45 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
- .debug_macro   0x000000000000abab      0x95e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+ .debug_macro   0x00000000000000c2      0x994 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000000a56       0x7c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000000ad2      0x1a0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000000c72      0x10b /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000000d7d      0x174 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000000ef1      0xcf1 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000001be2       0xc4 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000001ca6       0x22 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000001cc8       0x35 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000001cfd       0x58 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000001d55       0x34 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000001d89       0x79 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
+ .debug_macro   0x0000000000001e02      0x20b /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x000000000000200d      0x994 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x00000000000029a1       0x1c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x00000000000029bd     0x1609 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x0000000000003fc6       0x5f /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x0000000000004025       0x16 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x000000000000403b       0x16 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x0000000000004051       0x2e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x000000000000407f       0xf0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x000000000000416f       0x1c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x000000000000418b       0x16 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x00000000000041a1      0x252 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x00000000000043f3       0xdc /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x00000000000044cf       0xfd /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
+ .debug_macro   0x00000000000045cc      0x106 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .debug_macro   0x00000000000046d2      0x994 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+ .debug_macro   0x0000000000005066       0x1b /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/test_float_subj.o
+ .debug_macro   0x0000000000005081      0x994 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/test_float_subj.o
+ .debug_macro   0x0000000000005a15       0xd0 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .debug_macro   0x0000000000005ae5      0x994 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .debug_macro   0x0000000000006479       0x28 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/attestation.o
+ .debug_macro   0x00000000000064a1      0x190 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x0000000000006631      0x98e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x0000000000006fbf       0x2e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x0000000000006fed       0x33 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x0000000000007020       0x88 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x00000000000070a8       0x22 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+ .debug_macro   0x00000000000070ca      0x187 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x0000000000007251      0x95e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x0000000000007baf      0x5e3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x0000000000008192       0xea /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x000000000000827c       0x89 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x0000000000008305       0x39 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x000000000000833e       0x8e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+ .debug_macro   0x00000000000083cc       0x54 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .debug_macro   0x0000000000008420      0x95e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .debug_macro   0x0000000000008d7e       0x7c /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+ .debug_macro   0x0000000000008dfa       0xdf /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_macro   0x0000000000008ed9      0x95e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+ .debug_macro   0x0000000000009837       0x24 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
+ .debug_macro   0x000000000000985b      0x95e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
+ .debug_macro   0x000000000000a1b9       0x24 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
+ .debug_macro   0x000000000000a1dd      0x95e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
+ .debug_macro   0x000000000000ab3b       0x45 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+ .debug_macro   0x000000000000ab80      0x95e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
 
 .debug_line     0x0000000000000000     0x3415
  .debug_line    0x0000000000000000      0x1f7 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
@@ -821,33 +821,33 @@ OUTPUT(/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/5
  .debug_line    0x0000000000003186       0xe3 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
  .debug_line    0x0000000000003269      0x1ac /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
 
-.debug_str      0x0000000000000000    0x12b02
- .debug_str     0x0000000000000000     0x8e9b /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
-                                       0x9022 (size before relaxing)
- .debug_str     0x0000000000008e9b     0x6e91 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
-                                       0xff86 (size before relaxing)
- .debug_str     0x000000000000fd2c      0x136 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
-                                       0x9e88 (size before relaxing)
- .debug_str     0x000000000000fe62       0x30 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/test_float_subj.o
-                                       0x2fe0 (size before relaxing)
- .debug_str     0x000000000000fe92      0x13b /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/attestation.o
-                                       0x9689 (size before relaxing)
- .debug_str     0x000000000000ffcd      0xe0e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
-                                       0xb3be (size before relaxing)
- .debug_str     0x0000000000010ddb     0x190a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
-                                       0xc135 (size before relaxing)
- .debug_str     0x00000000000126e5      0x27f /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
-                                       0x4a17 (size before relaxing)
- .debug_str     0x0000000000012964       0x36 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(setjmp_a64.o)
+.debug_str      0x0000000000000000    0x12ae6
+ .debug_str     0x0000000000000000     0x8e7f /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o
+                                       0x9006 (size before relaxing)
+ .debug_str     0x0000000000008e7f     0x6e91 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/os_test.o
+                                       0xff6a (size before relaxing)
+ .debug_str     0x000000000000fd10      0x136 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/ta_entry.o
+                                       0x9e6c (size before relaxing)
+ .debug_str     0x000000000000fe46       0x30 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/test_float_subj.o
+                                       0x2fc4 (size before relaxing)
+ .debug_str     0x000000000000fe76      0x13b /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/attestation.o
+                                       0x966d (size before relaxing)
+ .debug_str     0x000000000000ffb1      0xe0e /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/user_ta_header.o
+                                       0xb3a2 (size before relaxing)
+ .debug_str     0x0000000000010dbf     0x190a /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libdl.a(dlfcn.o)
+                                       0xc119 (size before relaxing)
+ .debug_str     0x00000000000126c9      0x27f /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strncmp.o)
+                                       0x49fb (size before relaxing)
+ .debug_str     0x0000000000012948       0x36 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(setjmp_a64.o)
                                          0x71 (size before relaxing)
- .debug_str     0x000000000001299a       0x76 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
-                                       0xac4b (size before relaxing)
- .debug_str     0x0000000000012a10       0x46 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
-                                       0x424c (size before relaxing)
- .debug_str     0x0000000000012a56       0x44 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
-                                       0x4249 (size before relaxing)
- .debug_str     0x0000000000012a9a       0x68 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
-                                       0x47af (size before relaxing)
+ .debug_str     0x000000000001297e       0x76 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutee.a(tee_uuid_from_str.o)
+                                       0xac2f (size before relaxing)
+ .debug_str     0x00000000000129f4       0x46 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(isxdigit.o)
+                                       0x4230 (size before relaxing)
+ .debug_str     0x0000000000012a3a       0x44 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(tolower.o)
+                                       0x422d (size before relaxing)
+ .debug_str     0x0000000000012a7e       0x68 /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/export-ta_arm64/lib/libutils.a(strnlen.o)
+                                       0x4793 (size before relaxing)
 
 .comment        0x0000000000000000       0x1f
  .comment       0x0000000000000000       0x1f /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/ta/os_test/init.o

@@ -20,6 +20,8 @@ srcs-$(CFG_RTC_PTA) += rtc.c
 #srcs-$(CFG_GPIO_PTA) += jetsongpio.c
 srcs-$(CFG_JETGPIO_PTA) += jetgpio.c
 srcs-y += tee_gpio.c
+srcs-y += pta_supervisor.c
+srcs-y += pta_poc.c
 
 
 subdirs-y += bcm

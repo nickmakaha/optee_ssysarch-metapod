@@ -33,6 +33,7 @@ struct AppInstance {
     char name[32];
 };
 
+
 static struct AppInstance app_instances[MAX_APPS];
 static size_t app_count = 0;
 
@@ -59,7 +60,11 @@ m3ApiRawFunction(wasm_gpio_write) {
     m3ApiSuccess();
 }
 
-
+static void link_driver_functions(IM3Runtime rt) {
+    m3_LinkRawFunction(rt, "env", "gpio_init", "v()", &wasm_gpio_init);
+    m3_LinkRawFunction(rt, "env", "gpio_set_mode", "v(ii)", &wasm_gpio_set_mode);
+    m3_LinkRawFunction(rt, "env", "gpio_write", "v(ii)", &wasm_gpio_write);
+}
 
 static TEE_Result spawn_wasm_app(uint32_t param_types,
 	TEE_Param params[4])
@@ -98,11 +103,7 @@ static TEE_Result spawn_wasm_app(uint32_t param_types,
     return TEE_SUCCESS;
 }
 
-static void link_driver_functions(IM3Runtime rt) {
-    m3_LinkRawFunction(rt, "env", "gpio_init", "v()", &wasm_gpio_init);
-    m3_LinkRawFunction(rt, "env", "gpio_set_mode", "v(ii)", &wasm_gpio_set_mode);
-    m3_LinkRawFunction(rt, "env", "gpio_write", "v(ii)", &wasm_gpio_write);
-}
+
 
 
 

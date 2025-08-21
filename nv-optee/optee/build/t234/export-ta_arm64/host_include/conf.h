@@ -9,7 +9,6 @@
 /* CFG_BOOT_SECONDARY_REQUEST is not set */
 #define CFG_BUILD_IN_TREE_TA 1
 #define CFG_CC_OPT_LEVEL s
-#define CFG_CFLAGS -Dd_m3HasFloat=0
 #define CFG_COMPAT_GP10_DES 1
 #define CFG_CORE_ARM64_PA_BITS 40
 /* CFG_CORE_ASLR is not set */
