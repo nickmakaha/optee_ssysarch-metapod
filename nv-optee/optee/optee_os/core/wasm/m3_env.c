@@ -250,42 +250,11 @@ void  m3_FreeRuntime  (IM3Runtime i_runtime)
     }
 }
 
-void dump_mem_full(char * msg) {
-    DMSG("%s", msg);
-    char * start = 0x27c59355c - 0xC - 512;
-    int size = 1024;
-    DMSG("=============================================");
-    unsigned char * char_start = (unsigned char *) start;
-    for(int i = 0; i < size; i += 16) {
-        DMSG("%p  %02x %02x %02x %02x %02x %02x %02x %02x  %02x %02x %02x %02x %02x %02x %02x %02x ",
-            (const void*)(start + i),
-            *(char_start + i + 0),
-            *(char_start + i + 1),
-            *(char_start + i + 2),
-            *(char_start + i + 3),
-            *(char_start + i + 4),
-            *(char_start + i + 5),
-            *(char_start + i + 6),
-            *(char_start + i + 7),
-            *(char_start + i + 8),
-            *(char_start + i + 9),
-            *(char_start + i + 10),
-            *(char_start + i + 11),
-            *(char_start + i + 12),
-            *(char_start + i + 13),
-            *(char_start + i + 14),
-            *(char_start + i + 15)
-        );
-    }
-}
-
 M3Result  EvaluateExpression  (IM3Module i_module, void * o_expressed, u8 i_type, bytes_t * io_bytes, cbytes_t i_end)
 {
-    dump_mem_full("start evaluate expression");
 
     M3Result result = m3Err_none;
 
-    DMSG("size: %d", sizeof(M3Runtime));
     // OPTZ: use a simplified interpreter for expressions
 
     // create a temporary runtime context
@@ -295,7 +264,6 @@ M3Result  EvaluateExpression  (IM3Module i_module, void * o_expressed, u8 i_type
     // M3Runtime runtime;
 #endif
 
-    dump_mem_full("dump 2");
 
     M3Runtime *runtime_ptr = (M3Runtime *)calloc(1, sizeof(M3Runtime));
     if (!runtime_ptr) {
@@ -304,21 +272,15 @@ M3Result  EvaluateExpression  (IM3Module i_module, void * o_expressed, u8 i_type
 
     memset(runtime_ptr, 0, sizeof(M3Runtime));
 
-    dump_mem_full("dump 3");
     runtime_ptr->environment = i_module->runtime->environment;
-    dump_mem_full("dump 4");
     runtime_ptr->numStackSlots = i_module->runtime->numStackSlots;
-    dump_mem_full("dump 5");
     runtime_ptr->stack = i_module->runtime->stack;
     
-    dump_mem_full("dump 6");
     m3stack_t stack = (m3stack_t)(runtime_ptr->stack);
     
-    dump_mem_full("dump 7");
     IM3Runtime savedRuntime = i_module->runtime;
     i_module->runtime = runtime_ptr;
     
-    dump_mem_full("dump 8");
     IM3Compilation o = & (runtime_ptr->compilation);
     o->runtime = runtime_ptr;
     o->module =  i_module;
@@ -326,38 +288,28 @@ M3Result  EvaluateExpression  (IM3Module i_module, void * o_expressed, u8 i_type
     o->wasmEnd = i_end;
     o->lastOpcodeStart = o->wasm;
     
-    dump_mem_full("dump 9");
     o->block.depth = -1;  // so that root compilation depth = 0
     
-    dump_mem_full("dump 9");
     //  OPTZ: this code page could be erased after use.  maybe have 'empty' list in addition to full and open?
     o->page = AcquireCodePage (runtime_ptr);  // AcquireUnusedCodePage (...)
-    dump_mem_full("dump 9");
     
     if (o->page)
     {
-        dump_mem_full("dump 10");
         IM3FuncType ftype = runtime_ptr->environment->retFuncTypes[i_type];
-        dump_mem_full("dump 11");
         
         pc_t m3code = GetPagePC (o->page);
-        dump_mem_full("dump 12");
         result = CompileBlock (o, ftype, c_waOp_block);
         
-        dump_mem_full("dump 13");
         if (not result && o->maxStackSlots >= runtime_ptr->numStackSlots) {
             result = m3Err_trapStackOverflow;
         }
         
         if (not result)
         {
-            dump_mem_full("dump 14");
             # if (d_m3EnableOpProfiling || d_m3EnableOpTracing)
             m3ret_t r = RunCode (m3code, stack, NULL, d_m3OpDefaultArgs, d_m3BaseCstr);
-            dump_mem_full("dump 15");
             # else
             m3ret_t r = RunCode (m3code, stack, NULL, d_m3OpDefaultArgs);
-            dump_mem_full("dump 16");
             # endif
             
             if (r == 0)
@@ -371,25 +323,19 @@ M3Result  EvaluateExpression  (IM3Module i_module, void * o_expressed, u8 i_type
                     * (u64 *) o_expressed = * ((u64 *) stack);
                 }
             }
-            dump_mem_full("dump 17");
         }
         
         // TODO: EraseCodePage (...) see OPTZ above
         ReleaseCodePage (runtime_ptr, o->page);
-        dump_mem_full("dump 18");
     }
     else result = m3Err_mallocFailedCodePage;
     
-    dump_mem_full("dump 19");
     runtime_ptr->originStack = NULL;        // prevent free(stack) in ReleaseRuntime
     Runtime_Release (runtime_ptr);
-    dump_mem_full("dump 20");
     i_module->runtime = savedRuntime;
-    dump_mem_full("dump 21");
 
     * io_bytes = o->wasm;
 
-    dump_mem_full("end evaluate expression");
     free(runtime_ptr);
     return result;
 }
