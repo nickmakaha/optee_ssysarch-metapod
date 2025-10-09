@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/kernel/initcall.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/kernel/initcall.o: \
  core/kernel/initcall.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  core/include/initcall.h core/include/scattered_array.h \
  lib/libutils/ext/include/compiler.h core/include/keep.h \
  lib/libutee/include/tee_api_types.h lib/libutils/isoc/include/inttypes.h \

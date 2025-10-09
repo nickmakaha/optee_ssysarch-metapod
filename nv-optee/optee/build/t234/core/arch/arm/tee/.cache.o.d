@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/arch/arm/tee/cache.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/arch/arm/tee/cache.o: \
  core/arch/arm/tee/cache.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  core/include/mm/core_memprot.h core/include/mm/core_mmu.h \
  lib/libutils/isoc/include/assert.h lib/libutils/ext/include/compiler.h \
  lib/libutils/ext/include/trace.h \

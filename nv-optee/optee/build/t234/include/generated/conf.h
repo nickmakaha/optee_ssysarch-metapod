@@ -1,5 +1,5 @@
-#ifndef __home_nick2_optee_ssysarch_metapod_nv_optee_optee_build_t234__include_generated_conf_h_
-#define __home_nick2_optee_ssysarch_metapod_nv_optee_optee_build_t234__include_generated_conf_h_
+#ifndef __home_nick2_michael_repos_optee_ssysarch_metapod_nv_optee_optee_build_t234__include_generated_conf_h_
+#define __home_nick2_michael_repos_optee_ssysarch_metapod_nv_optee_optee_build_t234__include_generated_conf_h_
 #define CFG_AES_GCM_TABLE_BASED 1
 #define CFG_ARM64_core 1
 #define CFG_ARM64_ldelf 1
@@ -23,7 +23,7 @@
 #define CFG_CORE_DYN_SHM 1
 /* CFG_CORE_HAFNIUM_INTC is not set */
 #define CFG_CORE_HAS_GENERIC_TIMER 1
-#define CFG_CORE_HEAP_SIZE 131072
+#define CFG_CORE_HEAP_SIZE 0x400000
 #define CFG_CORE_HUK_SUBKEY_COMPAT 1
 /* CFG_CORE_HUK_SUBKEY_COMPAT_USE_OTP_DIE_ID is not set */
 /* CFG_CORE_IRQ_IS_NATIVE_INTR is not set */
@@ -144,7 +144,7 @@
 #define CFG_MAP_EXT_DT_SECURE 1
 #define CFG_MAX_CACHE_LINE_SHIFT 6
 /* CFG_MEMTAG is not set */
-#define CFG_MMAP_REGIONS 13
+#define CFG_MMAP_REGIONS 64
 #define CFG_MSG_LONG_PREFIX_MASK 0x1a
 /* CFG_NS_VIRTUALIZATION is not set */
 #define CFG_NUM_THREADS 12
@@ -196,6 +196,7 @@
 /* CFG_SPMC_TESTS is not set */
 #define CFG_SP_INIT_INFO_MAX_SIZE 0x1000
 #define CFG_STACK_THREAD_EXTRA 0
+#define CFG_STACK_THREAD_SIZE 0x10000
 #define CFG_STACK_TMP_EXTRA 0
 #define CFG_STMM_PATH /home/nick2/optee-dependencies/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/bootloader/standalonemm_optee_t234.bin
 /* CFG_SYSCALL_FTRACE is not set */
@@ -230,6 +231,7 @@
 #define CFG_TEE_FW_MANUFACTURER FW_MAN_UNDEF
 #define CFG_TEE_IMPL_DESCR OPTEE
 #define CFG_TEE_MANUFACTURER LINARO
+#define CFG_TEE_RAM_VA_SIZE 0x02000000
 #define CFG_TEE_TA_LOG_LEVEL 4
 /* CFG_TEE_TA_MALLOC_DEBUG is not set */
 #define CFG_TEGRA_DRIVERS 1

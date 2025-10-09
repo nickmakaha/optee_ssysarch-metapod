@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/lib/libtomcrypt/src/pk/ecc/ltc_ecc_mul2add.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/lib/libtomcrypt/src/pk/ecc/ltc_ecc_mul2add.o: \
  core/lib/libtomcrypt/src/pk/ecc/ltc_ecc_mul2add.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  core/lib/libtomcrypt/src/headers/tomcrypt_private.h \
  core/lib/libtomcrypt/src/headers/tomcrypt.h \
  lib/libutils/isoc/include/assert.h lib/libutils/ext/include/compiler.h \

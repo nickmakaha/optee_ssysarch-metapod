@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/include/generated/.asm-defines.s: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/include/generated/.asm-defines.s: \
  core/arch/arm/kernel/asm-defines.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  core/include/gen-asm-defines.h core/include/kernel/boot.h \
  core/include/initcall.h core/include/scattered_array.h \
  lib/libutils/ext/include/compiler.h core/include/keep.h \

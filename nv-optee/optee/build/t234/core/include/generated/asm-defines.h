@@ -1,5 +1,5 @@
-#ifndef _home_nick2_optee_ssysarch_metapod_nv_optee_optee_build_t234__core_include_generated_asm_defines_h
-#define _home_nick2_optee_ssysarch_metapod_nv_optee_optee_build_t234__core_include_generated_asm_defines_h
+#ifndef _home_nick2_michael_repos_optee_ssysarch_metapod_nv_optee_optee_build_t234__core_include_generated_asm_defines_h
+#define _home_nick2_michael_repos_optee_ssysarch_metapod_nv_optee_optee_build_t234__core_include_generated_asm_defines_h
 #define THREAD_SMC_ARGS_X0	0	/* offsetof(struct thread_smc_args, a0)"	*/
 #define THREAD_SMC_ARGS_SIZE	64	/* sizeof(struct thread_smc_args)"	*/
 #define THREAD_SCALL_REG_X0	16	/* offsetof(struct thread_scall_regs, x0)"	*/

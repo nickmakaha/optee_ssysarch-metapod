@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/tee/tee_svc.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/tee/tee_svc.o: \
  core/tee/tee_svc.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  lib/libutils/ext/include/compiler.h core/include/kernel/chip_services.h \
  core/include/kernel/pseudo_ta.h lib/libutils/isoc/include/assert.h \
  lib/libutils/ext/include/trace.h \

@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/tee/tee_obj.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/tee/tee_obj.o: \
  core/tee/tee_obj.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  core/include/mm/vm.h lib/libutee/include/tee_api_types.h \
  lib/libutils/ext/include/compiler.h lib/libutils/isoc/include/inttypes.h \
  lib/libutils/isoc/include/stdint.h lib/libutils/isoc/include/limits.h \

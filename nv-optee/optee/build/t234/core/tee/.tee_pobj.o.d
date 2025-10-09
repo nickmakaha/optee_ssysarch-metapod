@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/tee/tee_pobj.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/tee/tee_pobj.o: \
  core/tee/tee_pobj.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  core/include/kernel/mutex.h core/include/kernel/refcount.h \
  lib/libutils/ext/include/atomic.h lib/libutils/ext/include/compiler.h \
  lib/libutils/ext/include/types_ext.h lib/libutils/isoc/include/limits.h \

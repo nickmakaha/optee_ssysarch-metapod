@@ -77,7 +77,7 @@ SECTIONS
  }
  .heap1 (NOLOAD) : {
   __heap1_start = .;
-  . += 131072;
+  . += 0x400000;
   . = ALIGN(4 * 1024);
   __heap1_end = .;
  }
@@ -93,9 +93,9 @@ SECTIONS
  }
  __end = .;
  __init_size = __data_end - 0x80000000;
- ASSERT(. <= (0x80000000 + (1 << (21))),
+ ASSERT(. <= (0x80000000 + 0x02000000),
   "TEE_RAM_VA_SIZE is too small")
- . = 0x80000000 + (1 << (21));
+ . = 0x80000000 + 0x02000000;
  _end_of_ram = .;
  __flatmap_unpg_rw_size = _end_of_ram - __flatmap_unpg_rw_start;
  __get_tee_init_end = .;

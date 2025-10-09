@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core-lib/libmbedtls/mbedtls/library/constant_time.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//core-lib/libmbedtls/mbedtls/library/constant_time.o: \
  lib/libmbedtls/mbedtls/library/constant_time.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  lib/libmbedtls/mbedtls/library/common.h \
  lib/libmbedtls/mbedtls/include/mbedtls/config.h \
  lib/libmbedtls/include/mbedtls_config_kernel.h \

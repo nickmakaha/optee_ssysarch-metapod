@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/mm/tee_mm.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/mm/tee_mm.o: \
  core/mm/tee_mm.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  core/include/kernel/panic.h lib/libutils/ext/include/compiler.h \
  core/include/kernel/spinlock.h lib/libutils/isoc/include/assert.h \
  lib/libutils/ext/include/trace.h \

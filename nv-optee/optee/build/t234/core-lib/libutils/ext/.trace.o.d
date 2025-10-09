@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core-lib/libutils/ext/trace.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//core-lib/libutils/ext/trace.o: \
  lib/libutils/ext/trace.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  core/arch/arm/plat-tegra/./platform_config.h \
  core/arch/arm/include/mm/generic_ram_layout.h \
  lib/libutils/ext/include/util.h lib/libutils/ext/include/compiler.h \

@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ta_arm64-lib/libutee/user_ta_entry.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//ta_arm64-lib/libutee/user_ta_entry.o: \
  lib/libutee/user_ta_entry.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  lib/libutils/ext/include/compiler.h lib/libutee/include/link.h \
  lib/libutee/include/elf.h lib/libutee/include/elf64.h \
  lib/libutee/include/elf_common.h lib/libutils/isoc/include/stdint.h \

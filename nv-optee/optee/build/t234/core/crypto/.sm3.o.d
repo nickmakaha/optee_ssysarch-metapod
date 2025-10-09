@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/crypto/sm3.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/crypto/sm3.o: \
  core/crypto/sm3.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  lib/libutils/ext/include/compiler.h core/include/crypto/crypto_accel.h \
  lib/libutee/include/tee_api_types.h lib/libutils/isoc/include/inttypes.h \
  lib/libutils/isoc/include/stdint.h lib/libutils/isoc/include/limits.h \
