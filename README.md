@@ -11,6 +11,9 @@ make -C hello_world CROSS_COMPILE="/home/ssysarch/Desktop/nick/jetpack_5/aarch64
 
 TEEC_EXPORT="/home/ssysarch/Desktop/nick/jetpack_5/Jetson_Linux_R35.4.1_aarch64/Linux_for_Tegra/sources/tegra/optee-src/nv-optee/optee/install/t234/usr" -j"$(nproc)"
 
+# Building OPTEE 
+* Within nv-optee, run ./optee_src_build.sh -p t234
+
 # Flash the Jetson
 -1) Connect the Jetson to the Linux PC via usb-c
 
@@ -40,7 +43,3 @@ Replace tos-optee_t234.img (found in Linux_for_Tegra/bootloader) with tos.img (g
 
  
 -Once it completes, take out recovery wire, unplug device power, and replug device power:
-
-
-# Building OPTEE 
-* Within nv-optee, run ./optee_src_build.sh -p t234
