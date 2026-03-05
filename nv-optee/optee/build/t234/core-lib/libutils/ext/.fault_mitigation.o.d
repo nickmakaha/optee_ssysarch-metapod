@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core-lib/libutils/ext/fault_mitigation.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//core-lib/libutils/ext/fault_mitigation.o: \
  lib/libutils/ext/fault_mitigation.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  lib/libutils/ext/include/compiler.h \
  lib/libutils/ext/include/fault_mitigation.h \
  lib/libutils/isoc/include/assert.h lib/libutils/ext/include/trace.h \

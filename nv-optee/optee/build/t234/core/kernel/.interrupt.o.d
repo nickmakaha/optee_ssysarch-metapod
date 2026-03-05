@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/kernel/interrupt.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/kernel/interrupt.o: \
  core/kernel/interrupt.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  core/include/kernel/dt.h lib/libutils/ext/include/compiler.h \
  core/include/kernel/interrupt.h \
  core/include/dt-bindings/interrupt-controller/irq.h \

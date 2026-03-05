@@ -24,8 +24,6 @@
 
 #define LOAD_AND_RUN_WASM_APP		0
 
-
-
 m3ApiRawFunction(wasm_gpio_init_poc) {
     gpioInitialise();
     m3ApiSuccess();
@@ -49,42 +47,56 @@ m3ApiRawFunction(wasm_gpio_write_poc) {
     m3ApiSuccess();
 }
 
-static void link_driver_functions(IM3Runtime rt) {
-    m3_LinkRawFunction(rt, "env", "gpio_init", "v()", &wasm_gpio_init_poc);
-    m3_LinkRawFunction(rt, "env", "gpio_set_mode", "v(ii)", &wasm_gpio_set_mode_poc);
-    m3_LinkRawFunction(rt, "env", "gpio_write", "v(ii)", &wasm_gpio_write_poc);
+static void link_driver_functions(IM3Module mod) {
+    M3Result r = m3_LinkRawFunction(mod, "env", "gpio_init", "v()", &wasm_gpio_init_poc);
+    r = m3_LinkRawFunction(mod, "env", "gpio_set_mode", "v(ii)", &wasm_gpio_set_mode_poc);
+    r = m3_LinkRawFunction(mod, "env", "gpio_write", "v(ii)", &wasm_gpio_write_poc);
 }
+
 
 static TEE_Result spawn_and_run_wasm_app(uint32_t param_types,
 	TEE_Param params[4])
 {
+
 	if (TEE_PARAM_TYPE_MEMREF_INPUT != TEE_PARAM_TYPE_GET(param_types, 0))
         return TEE_ERROR_BAD_PARAMETERS;
 
 	void* wasm_buf = params[0].memref.buffer;
     size_t wasm_size = params[0].memref.size;
 
-
     IM3Environment env = m3_NewEnvironment();
-    IM3Runtime rt = m3_NewRuntime(env, 1024 /*stack*/, NULL);
+    
+    IM3Runtime rt = m3_NewRuntime(env, 4096 /*stack*/, NULL);
     IM3Module mod;
-
+    
+    
     M3Result result = m3_ParseModule(env, &mod, wasm_buf, wasm_size);
     if (result) return TEE_ERROR_GENERIC;
-
+    
+    
     result = m3_LoadModule(rt, mod);
 	if (result) return TEE_ERROR_GENERIC;
-
-	link_driver_functions(rt);
-
-
+    
+	link_driver_functions(mod);
+    
     IM3Function fn;
     result = m3_FindFunction(&fn, rt, "main");
-    if (result) return TEE_ERROR_GENERIC;
-
+    
+    if (result) {
+        return TEE_ERROR_GENERIC;
+    }
+    
     result = m3_CallV(fn);
     if (result) return TEE_ERROR_GENERIC;
-
+    
+    
+    uint32_t ret = 0;
+    const void* rets[1] = { &ret };
+    result = m3_GetResults(fn, 1, rets);
+    
+    if (rt)  m3_FreeRuntime(rt);
+    if (env) m3_FreeEnvironment(env);
+    
 
     return TEE_SUCCESS;
 }

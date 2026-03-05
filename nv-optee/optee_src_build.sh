@@ -89,6 +89,10 @@ function build_optee_sources {
 		PYTHON3="${PYTHON3_PATH}" \
 		NV_CCC_PREBUILT="${ccc_prebuilt}" \
 		O="${build_dir}/" \
+		CFG_CORE_HEAP_SIZE=0x400000 \
+  		CFG_STACK_THREAD_SIZE=0x10000 \
+		CFG_TEE_RAM_VA_SIZE=0x02000000 \
+  		CFG_MMAP_REGIONS=64 \
 		-j"${NPROC}"
 	bins+=("${build_dir}/core/tee-raw.bin")
 
@@ -126,6 +130,10 @@ function build_optee_sources {
 		NV_CCC_PREBUILT="${ccc_prebuilt}" \
 		O="${build_dir}/" \
 		EARLY_TA_PATHS="${early_tas}" \
+		CFG_CORE_HEAP_SIZE=0x400000 \
+  		CFG_STACK_THREAD_SIZE=0x10000 \
+		CFG_TEE_RAM_VA_SIZE=0x02000000 \
+  		CFG_MMAP_REGIONS=64 \
 		-j"${NPROC}"
 
 	source_dir="${SCRIPT_DIR}/optee/optee_test"

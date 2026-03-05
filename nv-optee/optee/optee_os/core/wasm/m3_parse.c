@@ -9,6 +9,7 @@
 #include "m3_compile.h"
 #include "m3_exception.h"
 #include "m3_info.h"
+#include <stdlib.h>
 
 
 M3Result  ParseType_Table  (IM3Module io_module, bytes_t i_bytes, cbytes_t i_end)
@@ -303,23 +304,29 @@ _   (ReadLEB_u32 (& startFuncIndex, & i_bytes, i_end));                         
     _catch: return result;
 }
 
-
 M3Result  Parse_InitExpr  (M3Module * io_module, bytes_t * io_bytes, cbytes_t i_end)
 {
     M3Result result = m3Err_none;
 
     // this doesn't generate code pages. just walks the wasm bytecode to find the end
-
 #if defined(d_m3PreferStaticAlloc)
-    static M3Compilation compilation;
+    // static M3Compilation compilation;
+    DMSG("PREFER STATIC ALLOC");
 #else
-    M3Compilation compilation;
+    DMSG("NOT STATIC ALLOC");
+    // M3Compilation compilation;
 #endif
-    compilation = (M3Compilation){ .runtime = NULL, .module = io_module, .wasm = * io_bytes, .wasmEnd = i_end };
 
-    result = CompileBlockStatements (& compilation);
+    M3Compilation * comp;
+    comp = (M3Compilation *)malloc(sizeof(M3Compilation));
 
-    * io_bytes = compilation.wasm;
+    *comp = (M3Compilation){ .runtime = NULL, .module = io_module, .wasm = * io_bytes, .wasmEnd = i_end };
+
+    result = CompileBlockStatements (comp);
+
+    * io_bytes = comp->wasm;
+
+    free(comp);
 
     return result;
 }
@@ -468,7 +475,6 @@ _   (ReadLEB_u32 (& numMemories, & i_bytes, i_end));                            
 M3Result  ParseSection_Global  (M3Module * io_module, bytes_t i_bytes, cbytes_t i_end)
 {
     M3Result result = m3Err_none;
-
     u32 numGlobals;
 _   (ReadLEB_u32 (& numGlobals, & i_bytes, i_end));                                 m3log (parse, "** Global [%d]", numGlobals);
 
@@ -476,6 +482,7 @@ _   (ReadLEB_u32 (& numGlobals, & i_bytes, i_end));                             
 
     for (u32 i = 0; i < numGlobals; ++i)
     {
+
         i8 waType;
         u8 type, isMutable;
 
@@ -493,7 +500,8 @@ _       (Parse_InitExpr (io_module, & i_bytes, i_end));
         _throwif (m3Err_wasmMissingInitExpr, global->initExprSize <= 1);
     }
 
-    _catch: return result;
+    _catch: 
+    return result;
 }
 
 
@@ -567,8 +575,10 @@ _       (io_module->environment->customSectionHandler(io_module, name, i_bytes, 
 }
 
 
+
 M3Result  ParseModuleSection  (M3Module * o_module, u8 i_sectionType, bytes_t i_bytes, u32 i_numBytes)
 {
+
     M3Result result = m3Err_none;
 
     typedef M3Result (* M3Parser) (M3Module *, bytes_t, cbytes_t);
@@ -602,6 +612,7 @@ M3Result  ParseModuleSection  (M3Module * o_module, u8 i_sectionType, bytes_t i_
     }
     else
     {
+        DMSG("is null");
         m3log (parse, " skipped section type: %d", (u32) i_sectionType);
     }
 

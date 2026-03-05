@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/drivers/tegra/common/tegra_driver_rng1.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/drivers/tegra/common/tegra_driver_rng1.o: \
  core/drivers/tegra/common/tegra_driver_rng1.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  lib/libutils/ext/include/config.h core/include/io.h \
  lib/libutils/ext/include/compiler.h lib/libutils/isoc/include/stdint.h \
  lib/libutils/isoc/include/limits.h lib/libutils/ext/include/types_ext.h \

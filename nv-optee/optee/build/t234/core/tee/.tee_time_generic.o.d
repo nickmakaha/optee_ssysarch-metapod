@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/tee/tee_time_generic.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/tee/tee_time_generic.o: \
  core/tee/tee_time_generic.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  core/include/kernel/panic.h lib/libutils/ext/include/compiler.h \
  core/include/kernel/tee_time.h lib/libutee/include/tee_api_types.h \
  lib/libutils/isoc/include/inttypes.h lib/libutils/isoc/include/stdint.h \

@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/kernel/tee_misc.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/kernel/tee_misc.o: \
  core/kernel/tee_misc.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  core/include/kernel/cache_helpers.h \
  core/arch/arm/include/kernel/cache_helpers_arch.h \
  core/arch/arm/include/arm.h \

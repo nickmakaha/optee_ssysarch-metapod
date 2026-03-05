@@ -1,4 +1,4 @@
-/* Generated from /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234/early_ta/luks-srv/b83d14a8-7128-49df-9624-35f14f65ca6c.stripped.elf by ts_bin_to_c.py */
+/* Generated from /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234/early_ta/luks-srv/b83d14a8-7128-49df-9624-35f14f65ca6c.stripped.elf by ts_bin_to_c.py */
 
 #include <kernel/embedded_ts.h>
 

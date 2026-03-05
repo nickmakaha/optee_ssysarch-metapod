@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/early_ta_b83d14a8-7128-49df-9624-35f14f65ca6c.o: \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/early_ta_b83d14a8-7128-49df-9624-35f14f65ca6c.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/early_ta_b83d14a8-7128-49df-9624-35f14f65ca6c.o: \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/early_ta_b83d14a8-7128-49df-9624-35f14f65ca6c.c \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  core/include/kernel/embedded_ts.h lib/libutils/ext/include/compiler.h \
  core/include/kernel/linker.h core/include/kernel/dt.h \
  core/include/kernel/interrupt.h \

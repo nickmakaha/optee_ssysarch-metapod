@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/kernel/msg_param.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/kernel/msg_param.o: \
  core/kernel/msg_param.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  core/include/kernel/msg_param.h lib/libutils/ext/include/compiler.h \
  core/include/mm/mobj.h core/include/mm/core_memprot.h \
  core/include/mm/core_mmu.h lib/libutils/isoc/include/assert.h \

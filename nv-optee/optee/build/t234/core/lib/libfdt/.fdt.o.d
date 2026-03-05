@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/lib/libfdt/fdt.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/lib/libfdt/fdt.o: \
  core/lib/libfdt/fdt.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  core/lib/libfdt/include/libfdt_env.h \
  /home/nick2/optee-dependencies/aarch64-glibc-stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stdbool.h \
  /home/nick2/optee-dependencies/aarch64-glibc-stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stddef.h \

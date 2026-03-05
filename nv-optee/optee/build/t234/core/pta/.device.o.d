@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/pta/device.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/pta/device.o: \
  core/pta/device.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  lib/libutils/ext/include/config.h core/include/kernel/early_ta.h \
  core/include/kernel/embedded_ts.h lib/libutils/ext/include/compiler.h \
  core/include/kernel/linker.h core/include/kernel/dt.h \

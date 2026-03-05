@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/lib/libtomcrypt/sm2-kep.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//core/lib/libtomcrypt/sm2-kep.o: \
  core/lib/libtomcrypt/sm2-kep.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  core/include/crypto/crypto.h core/include/tee/tee_obj.h \
  core/include/kernel/tee_ta_manager.h lib/libutils/isoc/include/assert.h \
  lib/libutils/ext/include/compiler.h lib/libutils/ext/include/trace.h \

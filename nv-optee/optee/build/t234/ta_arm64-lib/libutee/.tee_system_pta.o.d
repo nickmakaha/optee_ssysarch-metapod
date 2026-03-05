@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ta_arm64-lib/libutee/tee_system_pta.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//ta_arm64-lib/libutee/tee_system_pta.o: \
  lib/libutee/tee_system_pta.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  lib/libutee/include/pta_system.h lib/libutils/ext/include/util.h \
  lib/libutils/ext/include/compiler.h lib/libutils/isoc/include/inttypes.h \
  lib/libutils/isoc/include/stdint.h lib/libutils/isoc/include/limits.h \

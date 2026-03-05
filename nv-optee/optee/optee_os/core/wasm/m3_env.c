@@ -252,60 +252,68 @@ void  m3_FreeRuntime  (IM3Runtime i_runtime)
 
 M3Result  EvaluateExpression  (IM3Module i_module, void * o_expressed, u8 i_type, bytes_t * io_bytes, cbytes_t i_end)
 {
+
     M3Result result = m3Err_none;
 
     // OPTZ: use a simplified interpreter for expressions
 
     // create a temporary runtime context
 #if defined(d_m3PreferStaticAlloc)
-    static M3Runtime runtime;
+    // static M3Runtime runtime;
 #else
-    M3Runtime runtime;
+    // M3Runtime runtime;
 #endif
-    M3_INIT (runtime);
 
-    runtime.environment = i_module->runtime->environment;
-    runtime.numStackSlots = i_module->runtime->numStackSlots;
-    runtime.stack = i_module->runtime->stack;
 
-    m3stack_t stack = (m3stack_t)runtime.stack;
+    M3Runtime *runtime_ptr = (M3Runtime *)calloc(1, sizeof(M3Runtime));
+    if (!runtime_ptr) {
+        return m3Err_mallocFailed;
+    }
 
+    memset(runtime_ptr, 0, sizeof(M3Runtime));
+
+    runtime_ptr->environment = i_module->runtime->environment;
+    runtime_ptr->numStackSlots = i_module->runtime->numStackSlots;
+    runtime_ptr->stack = i_module->runtime->stack;
+    
+    m3stack_t stack = (m3stack_t)(runtime_ptr->stack);
+    
     IM3Runtime savedRuntime = i_module->runtime;
-    i_module->runtime = & runtime;
-
-    IM3Compilation o = & runtime.compilation;
-    o->runtime = & runtime;
+    i_module->runtime = runtime_ptr;
+    
+    IM3Compilation o = & (runtime_ptr->compilation);
+    o->runtime = runtime_ptr;
     o->module =  i_module;
     o->wasm =    * io_bytes;
     o->wasmEnd = i_end;
     o->lastOpcodeStart = o->wasm;
-
+    
     o->block.depth = -1;  // so that root compilation depth = 0
-
+    
     //  OPTZ: this code page could be erased after use.  maybe have 'empty' list in addition to full and open?
-    o->page = AcquireCodePage (& runtime);  // AcquireUnusedCodePage (...)
-
+    o->page = AcquireCodePage (runtime_ptr);  // AcquireUnusedCodePage (...)
+    
     if (o->page)
     {
-        IM3FuncType ftype = runtime.environment->retFuncTypes[i_type];
-
+        IM3FuncType ftype = runtime_ptr->environment->retFuncTypes[i_type];
+        
         pc_t m3code = GetPagePC (o->page);
         result = CompileBlock (o, ftype, c_waOp_block);
-
-        if (not result && o->maxStackSlots >= runtime.numStackSlots) {
+        
+        if (not result && o->maxStackSlots >= runtime_ptr->numStackSlots) {
             result = m3Err_trapStackOverflow;
         }
-
+        
         if (not result)
         {
-# if (d_m3EnableOpProfiling || d_m3EnableOpTracing)
+            # if (d_m3EnableOpProfiling || d_m3EnableOpTracing)
             m3ret_t r = RunCode (m3code, stack, NULL, d_m3OpDefaultArgs, d_m3BaseCstr);
-# else
+            # else
             m3ret_t r = RunCode (m3code, stack, NULL, d_m3OpDefaultArgs);
-# endif
+            # endif
             
             if (r == 0)
-            {                                                                               m3log (runtime, "expression result: %s", SPrintValue (stack, i_type));
+            {                                                                               m3log (runtime_ptr, "expression result: %s", SPrintValue (stack, i_type));
                 if (SizeOfType (i_type) == sizeof (u32))
                 {
                     * (u32 *) o_expressed = * ((u32 *) stack);
@@ -316,18 +324,19 @@ M3Result  EvaluateExpression  (IM3Module i_module, void * o_expressed, u8 i_type
                 }
             }
         }
-
+        
         // TODO: EraseCodePage (...) see OPTZ above
-        ReleaseCodePage (& runtime, o->page);
+        ReleaseCodePage (runtime_ptr, o->page);
     }
     else result = m3Err_mallocFailedCodePage;
-
-    runtime.originStack = NULL;        // prevent free(stack) in ReleaseRuntime
-    Runtime_Release (& runtime);
+    
+    runtime_ptr->originStack = NULL;        // prevent free(stack) in ReleaseRuntime
+    Runtime_Release (runtime_ptr);
     i_module->runtime = savedRuntime;
 
     * io_bytes = o->wasm;
 
+    free(runtime_ptr);
     return result;
 }
 
@@ -427,13 +436,10 @@ M3Result  InitGlobals  (IM3Module io_module)
             for (u32 i = 0; i < io_module->numGlobals; ++i)
             {
                 M3Global * g = & io_module->globals [i];                        m3log (runtime, "initializing global: %d", i);
-
                 if (g->initExpr)
                 {
                     bytes_t start = g->initExpr;
-
                     result = EvaluateExpression (io_module, & g->i64Value, g->type, & start, g->initExpr + g->initExprSize);
-
                     if (not result)
                     {
                         // io_module->globalMemory [i] = initValue;
@@ -448,7 +454,6 @@ M3Result  InitGlobals  (IM3Module io_module)
         }
         //          else result = ErrorModule (m3Err_mallocFailed, io_module, "could allocate globals for module: '%s", io_module->name);
     }
-
     return result;
 }
 
@@ -600,7 +605,6 @@ M3Result  m3_LoadModule  (IM3Runtime io_runtime, IM3Module io_module)
     if (M3_UNLIKELY(io_module->runtime)) {
         return m3Err_moduleAlreadyLinked;
     }
-
     io_module->runtime = io_runtime;
     M3Memory * memory = & io_runtime->memory;
 

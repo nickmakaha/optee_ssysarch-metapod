@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/isoc/sprintf.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutils/isoc/sprintf.o: \
  lib/libutils/isoc/sprintf.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  lib/libutils/ext/include/compiler.h lib/libutils/ext/include/printk.h \
  /home/nick2/optee-dependencies/aarch64-glibc-stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stddef.h \
  /home/nick2/optee-dependencies/aarch64-glibc-stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stdarg.h \

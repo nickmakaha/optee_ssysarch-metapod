@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/abort.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//ldelf-lib/libutee/abort.o: \
  lib/libutee/abort.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  lib/libutils/isoc/include/stdlib.h lib/libutils/ext/include/compiler.h \
  /home/nick2/optee-dependencies/aarch64-glibc-stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stddef.h \
  lib/libutils/isoc/include/malloc.h lib/libutils/ext/include/types_ext.h \

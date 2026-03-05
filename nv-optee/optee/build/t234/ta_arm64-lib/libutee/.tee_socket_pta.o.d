@@ -1,6 +1,6 @@
-/home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//ta_arm64-lib/libutee/tee_socket_pta.o: \
+/home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//ta_arm64-lib/libutee/tee_socket_pta.o: \
  lib/libutee/tee_socket_pta.c \
- /home/nick2/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
+ /home/nick2/michael/repos/optee_ssysarch-metapod/nv-optee/optee/build/t234//include/generated/conf.h \
  lib/libutee/include/pta_socket.h lib/libutils/isoc/include/string.h \
  /home/nick2/optee-dependencies/aarch64-glibc-stable-final/lib/gcc/aarch64-buildroot-linux-gnu/9.3.0/include/stddef.h \
  lib/libutils/isoc/include/sys/cdefs.h \
